@@ -1,0 +1,13 @@
+{
+  "id": "faight-anchester-by-torchlight",
+  "title": "Faight: Anchester by Torchlight",
+  "description": "A Fifth Edition horror campaign set in the besieged steampunk city-state of Anchester.",
+  "authors": [
+    { "name": "John W. Brown III" }
+  ],
+  "version": "2605.10.39",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  }
+}
