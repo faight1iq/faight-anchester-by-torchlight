@@ -1,5 +1,3 @@
-2026/05/31-13:48:06.192 4cc Recovering log #11
-2026/05/31-13:48:06.192 4cc Level-0 table #13: started
-2026/05/31-13:48:06.230 4cc Level-0 table #13: 5511 bytes OK
-2026/05/31-13:48:06.349 4cc Delete type=0 #11
-2026/05/31-13:48:06.352 4cc Delete type=3 #10
+2026/06/08-17:24:00.876 926c Recovering log #38
+2026/06/08-17:24:00.970 926c Delete type=3 #36
+2026/06/08-17:24:00.971 926c Delete type=0 #38
