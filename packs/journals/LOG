@@ -1,3 +1,7 @@
 2026/07/18-12:52:39.103 56b4 Recovering log #60
 2026/07/18-12:52:39.183 56b4 Delete type=3 #58
 2026/07/18-12:52:39.186 56b4 Delete type=0 #60
+2026/07/18-19:26:52.913 a380 Level-0 table #65: started
+2026/07/18-19:26:52.982 a380 Level-0 table #65: 8290 bytes OK
+2026/07/18-19:26:52.996 a380 Delete type=0 #63
+2026/07/18-19:26:52.998 a380 Manual compaction at level-0 from '!folders!KTfqJwJWPeSPqOAx' @ 72057594037927935 : 1 .. '!journal.pages!n8DGVl3r4FjyPPVS.f6c1a91a6412444b' @ 0 : 0; will stop at (end)
