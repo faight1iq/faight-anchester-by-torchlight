@@ -1,3 +1,7 @@
-2026/06/09-21:30:10.994 104c4 Recovering log #41
-2026/06/09-21:30:11.115 104c4 Delete type=0 #41
-2026/06/09-21:30:11.120 104c4 Delete type=3 #40
+2026/07/18-12:51:22.725 56b4 Recovering log #59
+2026/07/18-12:51:22.831 56b4 Delete type=0 #59
+2026/07/18-12:51:22.832 56b4 Delete type=3 #58
+2026/07/18-12:51:37.473 a380 Level-0 table #63: started
+2026/07/18-12:51:37.473 a380 Level-0 table #63: 0 bytes OK
+2026/07/18-12:51:37.496 a380 Delete type=0 #61
+2026/07/18-12:51:37.497 a380 Manual compaction at level-0 from '!folders!8VQRnFLkPvMnanK7' @ 72057594037927935 : 1 .. '!scenes.tiles!154vv9a3lVToJiO4.wXs7NBq6SU7tTXwX' @ 0 : 0; will stop at (end)

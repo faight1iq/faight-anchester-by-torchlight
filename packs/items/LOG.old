@@ -1,3 +1,7 @@
-2026/06/09-21:30:10.774 11a1c Recovering log #39
-2026/06/09-21:30:10.865 11a1c Delete type=0 #39
-2026/06/09-21:30:10.871 11a1c Delete type=3 #38
+2026/07/18-12:51:22.255 9d88 Recovering log #57
+2026/07/18-12:51:22.371 9d88 Delete type=0 #57
+2026/07/18-12:51:22.373 9d88 Delete type=3 #56
+2026/07/18-12:51:37.398 a380 Level-0 table #61: started
+2026/07/18-12:51:37.398 a380 Level-0 table #61: 0 bytes OK
+2026/07/18-12:51:37.413 a380 Delete type=0 #59
+2026/07/18-12:51:37.416 a380 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
