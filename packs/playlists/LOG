@@ -1,7 +1,3 @@
-2026/07/18-20:15:23.994 a1b8 Recovering log #64
-2026/07/18-20:15:24.073 a1b8 Delete type=3 #62
-2026/07/18-20:15:24.075 a1b8 Delete type=0 #64
-2026/07/18-21:01:16.244 a380 Level-0 table #69: started
-2026/07/18-21:01:16.292 a380 Level-0 table #69: 2606 bytes OK
-2026/07/18-21:01:16.310 a380 Delete type=0 #67
-2026/07/18-21:01:16.409 a380 Manual compaction at level-0 from '!folders!tNUiz1WG3JGk8Olj' @ 72057594037927935 : 1 .. '!playlists.sounds!rbAohDJsUeisyuhz.Y9qV3nxoOQLtlR8H' @ 0 : 0; will stop at (end)
+2026/07/19-13:53:23.984 31c0 Recovering log #71
+2026/07/19-13:53:24.085 31c0 Delete type=0 #71
+2026/07/19-13:53:24.088 31c0 Delete type=3 #70
