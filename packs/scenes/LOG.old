@@ -1,7 +1,14 @@
-2026/07/18-12:51:22.725 56b4 Recovering log #59
-2026/07/18-12:51:22.831 56b4 Delete type=0 #59
-2026/07/18-12:51:22.832 56b4 Delete type=3 #58
-2026/07/18-12:51:37.473 a380 Level-0 table #63: started
-2026/07/18-12:51:37.473 a380 Level-0 table #63: 0 bytes OK
-2026/07/18-12:51:37.496 a380 Delete type=0 #61
-2026/07/18-12:51:37.497 a380 Manual compaction at level-0 from '!folders!8VQRnFLkPvMnanK7' @ 72057594037927935 : 1 .. '!scenes.tiles!154vv9a3lVToJiO4.wXs7NBq6SU7tTXwX' @ 0 : 0; will stop at (end)
+2026/07/18-12:52:39.384 a1b8 Recovering log #62
+2026/07/18-12:52:39.482 a1b8 Delete type=3 #60
+2026/07/18-12:52:39.484 a1b8 Delete type=0 #62
+2026/07/18-19:26:53.078 a380 Level-0 table #67: started
+2026/07/18-19:26:53.154 a380 Level-0 table #67: 93038 bytes OK
+2026/07/18-19:26:53.173 a380 Delete type=0 #65
+2026/07/18-19:26:53.179 a380 Manual compaction at level-0 from '!folders!8VQRnFLkPvMnanK7' @ 72057594037927935 : 1 .. '!scenes.walls!SQLp80gIz4Mfd3nt.zzO4f2jvCmfcQCTy' @ 0 : 0; will stop at '!scenes.walls!SQLp80gIz4Mfd3nt.zzO4f2jvCmfcQCTy' @ 238 : 1
+2026/07/18-19:26:53.179 a380 Compacting 1@0 + 1@1 files
+2026/07/18-19:26:53.260 a380 Generated table #68@0: 449 keys, 94543 bytes
+2026/07/18-19:26:53.260 a380 Compacted 1@0 + 1@1 files => 94543 bytes
+2026/07/18-19:26:53.273 a380 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/18-19:26:53.273 a380 Delete type=2 #21
+2026/07/18-19:26:53.275 a380 Delete type=2 #67
+2026/07/18-19:26:53.282 a380 Manual compaction at level-0 from '!scenes.walls!SQLp80gIz4Mfd3nt.zzO4f2jvCmfcQCTy' @ 238 : 1 .. '!scenes.walls!SQLp80gIz4Mfd3nt.zzO4f2jvCmfcQCTy' @ 0 : 0; will stop at (end)
