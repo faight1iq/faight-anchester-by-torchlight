@@ -1,3 +1,8 @@
-2026/07/18-22:29:17.423 90e8 Recovering log #68
-2026/07/18-22:29:17.515 90e8 Delete type=3 #66
-2026/07/18-22:29:17.517 90e8 Delete type=0 #68
+2026/07/19-15:08:18.243 31c0 Recovering log #78
+2026/07/19-15:08:18.380 31c0 Delete type=3 #76
+2026/07/19-15:08:18.381 31c0 Delete type=0 #78
+2026/07/19-15:20:56.469 2394 Level-0 table #83: started
+2026/07/19-15:20:56.469 2394 Level-0 table #83: 0 bytes OK
+2026/07/19-15:20:56.485 2394 Delete type=0 #81
+2026/07/19-15:20:56.487 2394 Manual compaction at level-0 from '!folders!tNUiz1WG3JGk8Olj' @ 72057594037927935 : 1 .. '!playlists.sounds!rbAohDJsUeisyuhz.Y9qV3nxoOQLtlR8H' @ 0 : 0; will stop at (end)
+2026/07/19-15:20:56.487 2394 Manual compaction at level-1 from '!folders!tNUiz1WG3JGk8Olj' @ 72057594037927935 : 1 .. '!playlists.sounds!rbAohDJsUeisyuhz.Y9qV3nxoOQLtlR8H' @ 0 : 0; will stop at (end)

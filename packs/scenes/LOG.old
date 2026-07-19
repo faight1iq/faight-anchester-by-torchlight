@@ -1,3 +1,7 @@
-2026/07/18-22:29:17.527 b328 Recovering log #71
-2026/07/18-22:29:17.613 b328 Delete type=3 #69
-2026/07/18-22:29:17.615 b328 Delete type=0 #71
+2026/07/19-15:08:18.388 b2cc Recovering log #82
+2026/07/19-15:08:18.481 b2cc Delete type=3 #80
+2026/07/19-15:08:18.483 b2cc Delete type=0 #82
+2026/07/19-15:20:56.542 2394 Level-0 table #87: started
+2026/07/19-15:20:56.542 2394 Level-0 table #87: 0 bytes OK
+2026/07/19-15:20:56.555 2394 Delete type=0 #85
+2026/07/19-15:20:56.557 2394 Manual compaction at level-0 from '!folders!8VQRnFLkPvMnanK7' @ 72057594037927935 : 1 .. '!scenes.walls!SQLp80gIz4Mfd3nt.zzO4f2jvCmfcQCTy' @ 0 : 0; will stop at (end)
