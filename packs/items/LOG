@@ -1,23 +1,3 @@
-2026/07/24-15:19:20.448 2be8 Recovering log #92
-2026/07/24-15:19:20.448 2be8 Level-0 table #94: started
-2026/07/24-15:19:20.486 2be8 Level-0 table #94: 28069 bytes OK
-2026/07/24-15:19:20.583 2be8 Delete type=0 #92
-2026/07/24-15:19:20.585 2be8 Delete type=3 #91
-2026/07/24-15:20:25.937 b05c Level-0 table #97: started
-2026/07/24-15:20:25.937 b05c Level-0 table #97: 0 bytes OK
-2026/07/24-15:20:25.954 b05c Delete type=0 #95
-2026/07/24-15:20:26.221 b05c Manual compaction at level-0 from '!folders!Fg86bcIHMCEN831E' @ 72057594037927935 : 1 .. '!items.effects!uTM8hxicvTCzgHp8.c9a08382c4a24e9e' @ 0 : 0; will stop at '!items!zjG7qOaO0F1da3UB' @ 79 : 1
-2026/07/24-15:20:26.221 b05c Compacting 1@0 + 0@1 files
-2026/07/24-15:20:26.321 b05c Generated table #98@0: 26 keys, 28041 bytes
-2026/07/24-15:20:26.321 b05c Compacted 1@0 + 0@1 files => 28041 bytes
-2026/07/24-15:20:26.337 b05c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/07/24-15:20:26.337 b05c Delete type=2 #94
-2026/07/24-15:20:26.378 b05c Manual compaction at level-0 from '!items!zjG7qOaO0F1da3UB' @ 79 : 1 .. '!items.effects!uTM8hxicvTCzgHp8.c9a08382c4a24e9e' @ 0 : 0; will stop at (end)
-2026/07/24-15:20:26.440 b05c Manual compaction at level-1 from '!folders!Fg86bcIHMCEN831E' @ 72057594037927935 : 1 .. '!items.effects!uTM8hxicvTCzgHp8.c9a08382c4a24e9e' @ 0 : 0; will stop at '!items!zjG7qOaO0F1da3UB' @ 79 : 1
-2026/07/24-15:20:26.440 b05c Compacting 1@1 + 1@2 files
-2026/07/24-15:20:26.534 b05c Generated table #99@1: 88 keys, 72337 bytes
-2026/07/24-15:20:26.534 b05c Compacted 1@1 + 1@2 files => 72337 bytes
-2026/07/24-15:20:26.552 b05c compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/07/24-15:20:26.552 b05c Delete type=2 #88
-2026/07/24-15:20:26.553 b05c Delete type=2 #98
-2026/07/24-15:20:26.595 b05c Manual compaction at level-1 from '!items!zjG7qOaO0F1da3UB' @ 79 : 1 .. '!items.effects!uTM8hxicvTCzgHp8.c9a08382c4a24e9e' @ 0 : 0; will stop at (end)
+2026/07/31-14:35:07.641 8d5c Recovering log #113
+2026/07/31-14:35:07.725 8d5c Delete type=0 #113
+2026/07/31-14:35:07.727 8d5c Delete type=3 #112
