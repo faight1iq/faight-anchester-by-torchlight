@@ -1,0 +1,600 @@
+{
+ "crate_champagne_open": {
+  "file": "storage/crate_champagne_open.webp",
+  "category": "storage",
+  "w_ft": 2.5,
+  "d_ft": 2.2,
+  "px": [
+   436,
+   383
+  ]
+ },
+ "crate_wine_closed": {
+  "file": "storage/crate_wine_closed.webp",
+  "category": "storage",
+  "w_ft": 2.5,
+  "d_ft": 2.15,
+  "px": [
+   491,
+   422
+  ]
+ },
+ "barrel_wine_upright": {
+  "file": "storage/barrel_wine_upright.webp",
+  "category": "storage",
+  "w_ft": 3.0,
+  "d_ft": 3.05,
+  "px": [
+   439,
+   446
+  ]
+ },
+ "desk_butler_ledger": {
+  "file": "furniture/desk_butler_ledger.webp",
+  "category": "furniture",
+  "w_ft": 4.5,
+  "d_ft": 3.4,
+  "px": [
+   598,
+   452
+  ],
+  "light": {
+   "kind": "lamp",
+   "dim": 10,
+   "bright": 4,
+   "color": "#ffc27a",
+   "anim": "torch",
+   "alpha": 0.3,
+   "offset": [
+    -1.8,
+    -0.7
+   ]
+  }
+ },
+ "chair_desk_round": {
+  "file": "furniture/chair_desk_round.webp",
+  "category": "furniture",
+  "w_ft": 1.8,
+  "d_ft": 1.77,
+  "px": [
+   394,
+   388
+  ]
+ },
+ "trolley_champagne_coupes": {
+  "file": "service/trolley_champagne_coupes.webp",
+  "category": "service",
+  "w_ft": 3.5,
+  "d_ft": 2.4,
+  "px": [
+   578,
+   397
+  ]
+ },
+ "sidetable_silver_trays": {
+  "file": "service/sidetable_silver_trays.webp",
+  "category": "service",
+  "w_ft": 5.0,
+  "d_ft": 2.11,
+  "px": [
+   582,
+   246
+  ]
+ },
+ "sconce_brass_3globe": {
+  "file": "lighting/sconce_brass_3globe.webp",
+  "category": "lighting",
+  "w_ft": 2.0,
+  "d_ft": 1.66,
+  "px": [
+   295,
+   245
+  ],
+  "mount": "wall",
+  "light": {
+   "kind": "sconce",
+   "dim": 15,
+   "bright": 5,
+   "color": "#ffc27a",
+   "anim": "torch",
+   "alpha": 0.3
+  }
+ },
+ "palm_brass_urn": {
+  "file": "plants/palm_brass_urn.webp",
+  "category": "plants",
+  "w_ft": 4.0,
+  "d_ft": 3.3,
+  "px": [
+   405,
+   334
+  ]
+ },
+ "table_round_flowers": {
+  "file": "furniture/table_round_flowers.webp",
+  "category": "furniture",
+  "w_ft": 6.0,
+  "d_ft": 6.4,
+  "px": [
+   394,
+   420
+  ]
+ },
+ "settee_red_velvet": {
+  "file": "furniture/settee_red_velvet.webp",
+  "category": "furniture",
+  "w_ft": 7.0,
+  "d_ft": 4.09,
+  "px": [
+   527,
+   308
+  ]
+ },
+ "buffet_gala_long": {
+  "file": "service/buffet_gala_long.webp",
+  "category": "service",
+  "w_ft": 16.0,
+  "d_ft": 3.61,
+  "px": [
+   1207,
+   272
+  ]
+ },
+ "bandstand_quartet": {
+  "file": "furniture/bandstand_quartet.webp",
+  "category": "furniture",
+  "w_ft": 15.0,
+  "d_ft": 14.51,
+  "px": [
+   520,
+   503
+  ]
+ },
+ "fern_porcelain": {
+  "file": "plants/fern_porcelain.webp",
+  "category": "plants",
+  "w_ft": 4.0,
+  "d_ft": 3.92,
+  "px": [
+   287,
+   281
+  ]
+ },
+ "table_cocktail_champagne": {
+  "file": "furniture/table_cocktail_champagne.webp",
+  "category": "furniture",
+  "w_ft": 3.0,
+  "d_ft": 3.31,
+  "px": [
+   222,
+   245
+  ]
+ },
+ "chandelier_crystal_large": {
+  "file": "overhead/chandelier_crystal_large.webp",
+  "category": "overhead",
+  "w_ft": 8.0,
+  "d_ft": 7.68,
+  "px": [
+   454,
+   436
+  ],
+  "overhead": true
+ },
+ "chandelier_crystal_small": {
+  "file": "overhead/chandelier_crystal_small.webp",
+  "category": "overhead",
+  "w_ft": 6.0,
+  "d_ft": 6.4,
+  "px": [
+   282,
+   301
+  ],
+  "overhead": true
+ },
+ "rug_worn_red": {
+  "file": "rugs/rug_worn_red.webp",
+  "category": "rugs",
+  "w_ft": 6.0,
+  "d_ft": 9.39,
+  "px": [
+   317,
+   496
+  ]
+ },
+ "umbrella_stand_brass": {
+  "file": "furniture/umbrella_stand_brass.webp",
+  "category": "furniture",
+  "w_ft": 1.6,
+  "d_ft": 1.43,
+  "px": [
+   427,
+   381
+  ]
+ },
+ "plant_aspidistra": {
+  "file": "plants/plant_aspidistra.webp",
+  "category": "plants",
+  "w_ft": 2.2,
+  "d_ft": 2.21,
+  "px": [
+   516,
+   518
+  ]
+ },
+ "bench_servants_plain": {
+  "file": "furniture/bench_servants_plain.webp",
+  "category": "furniture",
+  "w_ft": 6.0,
+  "d_ft": 1.7,
+  "px": [
+   537,
+   152
+  ]
+ },
+ "table_work_unpacking": {
+  "file": "service/table_work_unpacking.webp",
+  "category": "service",
+  "w_ft": 7.0,
+  "d_ft": 3.2,
+  "px": [
+   555,
+   254
+  ]
+ },
+ "hatstand_tophats": {
+  "file": "furniture/hatstand_tophats.webp",
+  "category": "furniture",
+  "w_ft": 2.6,
+  "d_ft": 2.8,
+  "px": [
+   486,
+   524
+  ]
+ },
+ "crates_stack_three": {
+  "file": "storage/crates_stack_three.webp",
+  "category": "storage",
+  "w_ft": 3.2,
+  "d_ft": 3.15,
+  "px": [
+   432,
+   425
+  ]
+ },
+ "conversation_set_green": {
+  "file": "furniture/conversation_set_green.webp",
+  "category": "furniture",
+  "w_ft": 12.0,
+  "d_ft": 11.19,
+  "px": [
+   551,
+   514
+  ]
+ },
+ "card_table_four": {
+  "file": "furniture/card_table_four.webp",
+  "category": "furniture",
+  "w_ft": 6.0,
+  "d_ft": 5.9,
+  "px": [
+   466,
+   458
+  ]
+ },
+ "fireplace_marble": {
+  "file": "furniture/fireplace_marble.webp",
+  "category": "furniture",
+  "w_ft": 7.0,
+  "d_ft": 3.51,
+  "px": [
+   561,
+   281
+  ],
+  "mount": "wall",
+  "light": {
+   "kind": "fire",
+   "dim": 20,
+   "bright": 8,
+   "color": "#ff8a3d",
+   "anim": "fire",
+   "alpha": 0.4,
+   "offset": [
+    0,
+    0.4
+   ]
+  }
+ },
+ "chaise_rose": {
+  "file": "furniture/chaise_rose.webp",
+  "category": "furniture",
+  "w_ft": 6.5,
+  "d_ft": 3.8,
+  "px": [
+   489,
+   286
+  ]
+ },
+ "bed_double_mahogany": {
+  "file": "furniture/bed_double_mahogany.webp",
+  "category": "furniture",
+  "w_ft": 6.0,
+  "d_ft": 7.26,
+  "px": [
+   505,
+   611
+  ]
+ },
+ "wardrobe_mahogany": {
+  "file": "furniture/wardrobe_mahogany.webp",
+  "category": "furniture",
+  "w_ft": 5.0,
+  "d_ft": 2.58,
+  "px": [
+   514,
+   265
+  ]
+ },
+ "dressing_table_stool": {
+  "file": "furniture/dressing_table_stool.webp",
+  "category": "furniture",
+  "w_ft": 4.5,
+  "d_ft": 4.39,
+  "px": [
+   548,
+   535
+  ],
+  "light": {
+   "kind": "candle",
+   "dim": 8,
+   "bright": 3,
+   "color": "#ffb45e",
+   "anim": "torch",
+   "alpha": 0.3,
+   "offset": [
+    -1.5,
+    -1.4
+   ]
+  }
+ },
+ "bedside_table_lamp": {
+  "file": "furniture/bedside_table_lamp.webp",
+  "category": "furniture",
+  "w_ft": 2.0,
+  "d_ft": 2.4,
+  "px": [
+   232,
+   278
+  ],
+  "light": {
+   "kind": "lamp",
+   "dim": 10,
+   "bright": 4,
+   "color": "#ffc27a",
+   "anim": "torch",
+   "alpha": 0.3,
+   "offset": [
+    -0.2,
+    -0.45
+   ]
+  }
+ },
+ "bedside_table_lamp_b": {
+  "file": "furniture/bedside_table_lamp_b.webp",
+  "category": "furniture",
+  "w_ft": 2.0,
+  "d_ft": 2.4,
+  "px": [
+   232,
+   278
+  ],
+  "light": {
+   "kind": "lamp",
+   "dim": 10,
+   "bright": 4,
+   "color": "#ffc27a",
+   "anim": "torch",
+   "alpha": 0.3,
+   "offset": [
+    -0.2,
+    -0.45
+   ]
+  }
+ },
+ "statue_marble_plinth": {
+  "file": "decor/statue_marble_plinth.webp",
+  "category": "decor",
+  "w_ft": 3.5,
+  "d_ft": 3.84,
+  "px": [
+   348,
+   382
+  ]
+ },
+ "ottoman_gallery_red": {
+  "file": "furniture/ottoman_gallery_red.webp",
+  "category": "furniture",
+  "w_ft": 8.0,
+  "d_ft": 2.92,
+  "px": [
+   649,
+   237
+  ]
+ },
+ "pedestal_vase_lilies": {
+  "file": "decor/pedestal_vase_lilies.webp",
+  "category": "decor",
+  "w_ft": 3.0,
+  "d_ft": 2.99,
+  "px": [
+   515,
+   514
+  ]
+ },
+ "bistro_table_two": {
+  "file": "furniture/bistro_table_two.webp",
+  "category": "furniture",
+  "w_ft": 5.0,
+  "d_ft": 3.17,
+  "px": [
+   628,
+   398
+  ]
+ },
+ "rug_persian_large": {
+  "file": "rugs/rug_persian_large.webp",
+  "category": "rugs",
+  "w_ft": 9.0,
+  "d_ft": 14.59,
+  "px": [
+   362,
+   587
+  ]
+ },
+ "rug_aubusson_round": {
+  "file": "rugs/rug_aubusson_round.webp",
+  "category": "rugs",
+  "w_ft": 12.0,
+  "d_ft": 11.75,
+  "px": [
+   533,
+   522
+  ]
+ },
+ "carpet_green_floral": {
+  "file": "rugs/carpet_green_floral.webp",
+  "category": "rugs",
+  "w_ft": 16.0,
+  "d_ft": 14.14,
+  "px": [
+   569,
+   503
+  ]
+ },
+ "rug_navy_bedroom": {
+  "file": "rugs/rug_navy_bedroom.webp",
+  "category": "rugs",
+  "w_ft": 12.0,
+  "d_ft": 9.89,
+  "px": [
+   569,
+   469
+  ]
+ },
+ "desk_partners_study": {
+  "file": "furniture/desk_partners_study.webp",
+  "category": "furniture",
+  "w_ft": 6.0,
+  "d_ft": 5.26,
+  "px": [
+   552,
+   484
+  ],
+  "light": {
+   "kind": "lamp",
+   "dim": 10,
+   "bright": 4,
+   "color": "#e8ffd0",
+   "anim": null,
+   "alpha": 0.3,
+   "offset": [
+    -2.2,
+    -1.6
+   ]
+  }
+ },
+ "bookcase_tall": {
+  "file": "furniture/bookcase_tall.webp",
+  "category": "furniture",
+  "w_ft": 6.0,
+  "d_ft": 1.92,
+  "px": [
+   562,
+   180
+  ]
+ },
+ "globe_brass_stand": {
+  "file": "decor/globe_brass_stand.webp",
+  "category": "decor",
+  "w_ft": 3.0,
+  "d_ft": 2.91,
+  "px": [
+   407,
+   395
+  ]
+ },
+ "workbench_clockwork": {
+  "file": "furniture/workbench_clockwork.webp",
+  "category": "furniture",
+  "w_ft": 7.0,
+  "d_ft": 3.46,
+  "px": [
+   626,
+   309
+  ],
+  "light": {
+   "kind": "lamp",
+   "dim": 10,
+   "bright": 4,
+   "color": "#ffc27a",
+   "anim": "torch",
+   "alpha": 0.3,
+   "offset": [
+    2.6,
+    -1.0
+   ]
+  }
+ },
+ "servants_table_six": {
+  "file": "furniture/servants_table_six.webp",
+  "category": "furniture",
+  "w_ft": 8.0,
+  "d_ft": 6.28,
+  "px": [
+   558,
+   438
+  ],
+  "light": {
+   "kind": "candle",
+   "dim": 8,
+   "bright": 3,
+   "color": "#ffb45e",
+   "anim": "torch",
+   "alpha": 0.3,
+   "offset": [
+    -1.1,
+    -0.3
+   ]
+  }
+ },
+ "linen_press": {
+  "file": "furniture/linen_press.webp",
+  "category": "furniture",
+  "w_ft": 5.0,
+  "d_ft": 2.54,
+  "px": [
+   477,
+   242
+  ]
+ },
+ "laundry_basket_lace": {
+  "file": "service/laundry_basket_lace.webp",
+  "category": "service",
+  "w_ft": 2.4,
+  "d_ft": 3.25,
+  "px": [
+   277,
+   375
+  ]
+ },
+ "laundry_basket_folded": {
+  "file": "service/laundry_basket_folded.webp",
+  "category": "service",
+  "w_ft": 2.4,
+  "d_ft": 3.26,
+  "px": [
+   277,
+   376
+  ]
+ }
+}

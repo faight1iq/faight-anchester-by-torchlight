@@ -1,0 +1,9 @@
+<!doctype html><meta charset="utf-8"><script>
+window.addEventListener('message', async e => {
+  const d = e.data || {};
+  if (!d.want) return;
+  try { const r = await fetch(d.want, {cache:'no-store'}); const blob = await r.blob(); e.source.postMessage({abtl:1, name:d.want, blob, status:r.status}, '*'); }
+  catch (err) { e.source.postMessage({abtl:1, name:d.want, err:String(err)}, '*'); }
+});
+parent.postMessage({abtl:1, ready:1}, '*');
+</script>

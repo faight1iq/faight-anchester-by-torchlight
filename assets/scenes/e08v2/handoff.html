@@ -1,0 +1,5 @@
+<!doctype html><meta charset="utf-8"><script>
+const f=new URLSearchParams(location.search).get('f');
+fetch(f).then(r=>r.blob()).then(b=>{const file=new File([b],f.split('/').pop(),{type:b.type});
+ const send=()=>parent.postMessage({abtlFile:file},'*'); send(); setInterval(send,1500);});
+</script>
