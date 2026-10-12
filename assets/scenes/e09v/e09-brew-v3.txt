@@ -1,0 +1,735 @@
+{{pageNumber,auto}}
+{{show-footer}}
+
+<!--- ===============================================================================
+"id": "E09",
+"display_title": "Back in the Village",
+"long_title": "E09: Back in the Village",
+"change_log": {
+["261003-2200", ["Claude", "First draft"]],
+
+} ============================================================================== --->
+
+<!-- CLAUDE'S PROPOSALS, NOT YET RULED BY JOHN:
+  - Standard's key carries a brass tag "Claremonte Gdns. Lodge" (how the key points to the estate).
+  - The housemaid and the groom at the Claremonte Arms; the cellar crying.
+  - The priest of the Martyr at the churchyard; details for the city children on the green.
+  - Escalating Doom marks; +1 Doom for a body found, a gong rung or a creature loose.
+  - All skill checks and DCs.
+  - Outcome Ladder.
+  STILL OPEN: summon percentage; where Claudia was moved; who owns the estate; Reward; Insight Cue.
+ -->
+
+<!-- THIS IS THE TITLE OF THE EPISODE LEAVE IT HERE -->
+<img name="Back in the Village"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 148px;
+    --dropcap-left: -25px;
+    --dropcap-right: 0px;
+    --dropcap-top: -0px;
+    --dropcap-bottom: -10px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/1f991de3c35d318fc64e34717cfc4031bef96850/assets/abtl/abtl-e09-title.png"
+/>
+
+
+{{wide
+
+}}
+
+{{spacer,--s:14px}}
+
+{{classified
+<img name="Back in the Village"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 239px;
+    width: 236px;
+    object-fit: cover;
+    object-position: 45% 50%;
+    --dropcap-left: -8px;
+    --dropcap-right: 0px;
+    --dropcap-top: -5px;
+    --dropcap-bottom: -6px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/2d3661a582f98769745790e76b8acdbe2f5ba7c8/assets/abtl/abtl-e09-p0-photo.png"
+/>
+}}
+
+{{artist
+
+  [Back in the Village](https://startplaying.games/gm/faight-rpg)
+}}
+
+\column
+
+{{atbl-keeper-summary
+##### The House at Silverbrook
+Colonel Standard is dead, but his iron gate key leads to Claremonte Gardens, a country house outside the village of Silverbrook, east of East Row. The players are looking for Claudia Bay. The cult kept two pregnant women in the house. Tonight it moved Claudia somewhere else and took the other woman to a clearing in the deer park, across the lake, for a ritual. The cultists left behind hold the house, and every spell cast inside it may pull something hungry through from the other side.
+}}
+
+\column
+
+{{atbl-episode-summary
+### Episode Summary
+|   |   |
+|:--|:--|
+| **Players** | 3–6, Level 13 |
+| **Duration** | ~4 hours |
+| **Pacing** | Reveal; Social; Crawl |
+| **Scenes** | 8 |
+| **Cast** | Villagers of Silverbrook; the cultists of Claremonte Gardens |
+| **Reward** | TBD |
+| **References** | Doom Counter; Dread Insight; Ether Summons; Claremonte Gardens maps; Mythos Cultist stat blocks |
+}}
+
+{{wide
+---
+}}
+
+### Timeline
+{{noIndent
+**Fifteen years ago.** A collector had the Pale Journals stolen from a temple in Sai Abbadon and brought to Anchester.
+
+**Weeks ago.** At Paschendale the serum made from the Journals turned the volunteers into monsters. The city was told it was a victory.
+
+**Days ago.** Colonel Standard took Claudia Bay, the pregnant wife of Sergeant Freitman Bay, to the Clairvoyant.
+
+**Yesterday.** At the Lord of Light's gala a dragonborn assassin killed Standard. The players took his Pale Journal and an iron gate key from his body.
+
+**Today.** The cult at Claremonte Gardens has sent the ordinary servants away. Claudia has been moved. The ritual in the deer park begins at ten.
+}}
+
+\column
+
+### Episode Structure
+The players read the Journal and follow the key out of the city to Silverbrook. They spend a short time in the village, then go up to the estate.
+
+The house is the dungeon. Its rooms, occupants and threats are set; the players decide how to deal with each one: sneak past, talk, or fight. Nothing outside the house points to the ritual. The clues are inside. Everyone at the estate tonight is a cultist.
+
+The Clairvoyant knew the cult might have been compromised, but judged the ritual too important not to attempt.
+
+The episode ends at a second-floor window, when the players see the ritual lights in the deer park and believe Claudia is there. She is not. That is Episode Ten.
+
+\column
+
+### The Doom Counter
+**Start:** equal to the party's number of Dread Insights.
+
+**Add 1 Doom** each time a body is found, an alarm is rung, or a creature comes loose.
+
+::
+
+#### Escalating Doom
+
+| Mark | Escalation |
+|:---:|:-----|
+| 3 | The watchmen find a sign of entry and check every outside door. |
+| 6 | The household is roused and gathers in the service wing. |
+| 9 | The Elders cast on purpose, to pull creatures through. |
+| 12 | A creature comes through with no spell cast. |
+
+::
+#### Manifesting Doom
+
+| Cost | Doom |
+|:-:|:-----|
+| 1 | Mythos Disadvantage |
+| 1 | Murphy's Law |
+| 2 | Cut Off |
+| 3 | Sound the Alarm! |
+| 3 | Enemy Reinforcements |
+| 5 | Activate one Dread Ability |
+
+:::
+
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Nine
+  }}
+  {{pointed-right
+    Back in the Village
+  }}
+}}
+
+
+### Scene 1: The Journal and the Key
+***The Clarion Society. Day. ~20 min***
+
+{{descriptive
+Colonel Standard's Pale Journal lies open on the library table, beside an iron gate key on a broken watch chain.
+}}
+
+**What's Happening.** The players study what they took from Standard's body. The Journal tells them the Clairvoyant means to become a God King through the power of an outsider. It does not say how, or who.
+
+**The Key.** A brass tag on the key is stamped *Claremonte Gdns. Lodge*.
+
+##### Skill Checks
+{{noIndent
+**History DC 12.** Claremonte Gardens is a country house outside the village of Silverbrook, east of East Row. On a failure, any Clarion Society member knows it.
+}}
+
+**Scene Flow.** The ride out takes most of the day. The players reach Silverbrook in the late afternoon.
+
+### Scene 2: The Green
+***The Green, Silverbrook. Day. ~15 min***
+
+{{descriptive
+A wide green with a pond and a pump. Cottages face it on three sides, and a lane leaves the far corner toward a pair of stone gateposts.
+}}
+
+**What's Happening.** Children sent out from the city to live and work in the country are playing on the green. Villagers are going home for supper.
+
+**Clues.** The children know the big house stopped taking deliveries this week, and that its servants came down the lane with their boxes. They send the players to the Claremonte Arms, where some of those servants are staying.
+
+\column
+
+### Scene 3: The Claremonte Arms
+***The Claremonte Arms, taproom. Evening. ~30 min***
+
+{{descriptive
+A low-beamed taproom with a fire at one end and settles along the walls. Pewter mugs hang over the bar.
+}}
+
+**What's Happening.** A housemaid and a groom sent away from Claremonte Gardens drink here on the month's wages they were paid to leave. They know nothing of the cult.
+
+**Clues.** The two of them describe the house and its ways in: the front door, the library and study garden doors, the servants' entrance, the coal chute, and the door in the walled garden. The butler and the housekeeper kept the rest of the staff on.
+
+##### Skill Checks
+{{noIndent
+**Persuasion DC 15.** The housemaid admits she was forbidden the cellar, and heard a woman crying down there. The housekeeper told her it was a cat.
+}}
+
+**Scene Flow.** The servants know nothing of the deer park or a ritual.
+
+### Scene 4: The Churchyard
+***The Churchyard, Silverbrook. Dusk. ~15 min***
+
+{{descriptive
+Leaning stones under old yews. The church tower rises over them, and a flame burns in the iron brazier at its top.
+}}
+
+**What's Happening.** A priest of the Martyr tends the brazier. He says the household from the big house stopped coming to services months ago.
+
+**From the Tower.** The roofs of Claremonte House show above the trees. Lamps are lit below stairs; the main rooms are dark. The house and the woods hide the deer park.
+
+**Scene Flow.** This scene is optional. Nothing is lost if the players skip it.
+
+\column
+
+### Scene 5: The Lodge Gates
+***The Lodge Gates. Night. ~15 min***
+
+{{descriptive
+Two stone gateposts and a pair of iron gates, chained shut. A lamp burns in the window of the lodge beside them.
+}}
+
+**What's Happening.** The gatekeeper, a **Cultist**, sits at the lodge window. Standard's key opens the gate chain.
+
+##### Skill Checks
+{{noIndent
+**Stealth DC 15.** The players pass the lodge unseen. On a failure, the gatekeeper sees them and comes out casting.
+
+**Athletics DC 12.** Climb the park wall instead of using the gate.
+}}
+
+**Scene Flow.** Once the players are through, move to the grounds map and run the crawl.
+
+{{dm-sidebar
+#### Doom
+**Mythos Disadvantage.** Disadvantage on one roll.
+
+**Murphy's Law.** A board creaks, a door sticks, a lamp gutters out.
+
+**Cut Off.** A door is locked or a passage is blocked. The players must go around.
+
+**Sound the Alarm!** A cultist rings the dinner gong or a bell pull. Every cultist on that floor comes.
+
+**Enemy Reinforcements.** A cultist from the next room joins the fight.
+
+**Activate one Dread Ability.** Trigger a Dread Insight already held by a player.
+}}
+
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Nine
+  }}
+  {{pointed-right
+    Back in the Village
+  }}
+}}
+
+
+{{wide
+## Claremonte Gardens
+<img name="Claremonte Gardens"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 500px;
+    --dropcap-left: 0px;
+    --dropcap-right: 16px;
+    --dropcap-top: 0px;
+    --dropcap-bottom: 0px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/2d3661a582f98769745790e76b8acdbe2f5ba7c8/assets/abtl/abtl-e09-map-grounds.png"
+/>
+
+#### The Grounds
+Map: 09.06 in Foundry.
+
+**G1. Forecourt and Drive.** Gravel turning circle, lawn island, mounting block. The porch lanterns are unlit.
+
+**G2. Terrace and Parterre.** Flagged terrace, box-hedged beds, the fountain and the Long Walk. Two **Corrupted Cultists**, the watchmen, walk a circuit of the house with a shuttered lantern.
+
+**G3. Stable Court.** Two horses in the loose boxes. In the coach house a carriage, and one bay empty.
+
+**G4. Dovecote.** A round brick tower full of pigeons.
+
+**G5. Walled Garden.** Vegetable beds, cold frames, three glasshouses, and a potting shed with tools and a locked poison cupboard. A **Cultist**, the under-gardener, is in the shed.
+
+#### Ways In
+**A.** The front door, through the porch.
+
+**B.** The library garden door.
+
+**C.** The servants' entrance.
+
+**D.** The coal chute, into the coal cellar.
+
+**E.** The door in the walled garden.
+
+**F.** The study garden door.
+}}
+
+#### Running the Crawl
+Every cultist here is hostile. None surrender, and all of them cast. Let the players choose how to deal with each room.
+
+#### The Cultists
+Not very sturdy. Killing one sets off its death curse.
+
+| Type | Death curse |
+|:--|:--|
+| **Cultist** | None |
+| **Corrupted Cultist** | Rises as an Aberration |
+| **Cultist Elder** | Inflicts Nox |
+| **Aberration** | Inflicts Pox |
+
+\column
+
+#### The Household at a Glance
+
+| Where | Who |
+|:--|:--|
+| Lodge | Cultist |
+| Terrace (G2) | Corrupted Cultist x2 |
+| Potting shed (G5) | Cultist |
+| Entrance Hall (1) | Corrupted Cultist |
+| Kitchen (8) | Cultist x2 |
+| Butler's Pantry (10) | Cultist Elder |
+| Servants' Hall (11) | Corrupted Cultist x2 |
+| Housekeeper (13) | Cultist Elder |
+| Guest Bedroom (15) | Cultist |
+| Locked Room (32) | Corrupted Cultist, Aberration |
+| Boiler Room (37) | Corrupted Cultist |
+
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Nine
+  }}
+  {{pointed-right
+    Back in the Village
+  }}
+}}
+
+
+{{wide
+## Claremonte House
+<img name="Claremonte House"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 300px;
+    --dropcap-left: 0px;
+    --dropcap-right: 0px;
+    --dropcap-top: 0px;
+    --dropcap-bottom: 0px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/2d3661a582f98769745790e76b8acdbe2f5ba7c8/assets/abtl/abtl-e09-map-house.png"
+/>
+}}
+
+#### Ground Floor
+Map: 09.07 in Foundry.
+
+{{noIndent
+**1. Entrance Hall.** Marble floor, hall table, the dinner gong. A **Corrupted Cultist**, the footman, sits up on a hall chair to answer the door.
+
+**2. Stair Hall.** The main stair, a long-case clock, a bell pull.
+
+**3. Drawing Room.** Grand piano, porcelain, dust sheets. Empty.
+
+**4. Library.** Bookcases, reading tables, decanters. Door B. Empty.
+
+**5. Billiard Room.** A locked gun cabinet. Empty.
+
+**6. Study.** Desk, estate ledgers, a wall safe, a map chest. Door F. Empty.
+}}
+
+{{noIndent
+**Clue.** In the map chest, an estate map with a clearing in the deer park marked in fresh pencil.
+}}
+
+\column
+
+{{noIndent
+**7. Dining Room.** Long table, sideboards of silver. Empty.
+
+**8. Kitchen.** The range banked for the night. Baskets packed with linen, lanterns, brandy and food. Two **Cultists**, the cook and the kitchen hand, pack the last of them.
+
+**9. Service Passage.** The bell board, mostly empty coat pegs. Door C.
+
+**10. Butler's Pantry.** Silver chests, the day book, the cellar keys. A **Cultist Elder**, the butler, sits at his desk.
+}}
+
+{{noIndent
+**Clue.** Today's entry in the day book: cart, lanterns and linen "to the deer park clearing by ten."
+}}
+
+{{noIndent
+**11. Servants' Hall.** Long table, a staff rota with most names struck through. Two **Corrupted Cultists** wait here.
+
+**12. Back Staircase.** From the basement to the second floor.
+
+**13. Housekeeper's Room.** The linen book, a key board with one key missing. A **Cultist Elder**, the housekeeper, carries that key: the key to the Locked Room (32).
+}}
+
+{{noIndent
+**Clue.** The linen book notes the old linen "sent down to the deer park."
+}}
+
+\column
+
+#### Second Floor
+Map: 09.08 in Foundry.
+
+{{noIndent
+**14. Bedrooms.** Two rooms in the west wing under dust sheets. Empty.
+
+**15. Guest Bedroom.** A window seat in the south window. A **Cultist** keeps lookout there.
+
+**16. West-Wing Corridor.** Runner and portraits.
+
+**17. Sitting Room.** Writing desk, sewing table. Empty.
+
+**18. Landing.** Head of the main stair.
+
+**19. Dressing Room.** Wardrobes, a cheval mirror. Empty.
+
+**20. Gallery.** Carpet runner, paintings.
+
+**21. Principal Bedroom.** Four-poster, a locked jewellery box. Empty.
+
+**22. Bathroom.** Roll-top bath, gas geyser.
+
+**23. Linen Room.** Shelves stripped of the old linen.
+
+**24. Service Lobby.** Baize door, housemaids' cupboard.
+
+**25. Staff Bedroom.** Bed stripped, drawers empty.
+
+**26. Staff Bedroom.** Two beds stripped. A south window.
+}}
+
+{{noIndent
+**Clue.** The south windows of 15 and 26 look across the lake to the deer park.
+}}
+
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Nine
+  }}
+  {{pointed-right
+    Back in the Village
+  }}
+}}
+
+
+{{wide
+#### Basement
+<img name="The Basement"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 390px;
+    --dropcap-left: 0px;
+    --dropcap-right: 16px;
+    --dropcap-top: 0px;
+    --dropcap-bottom: 0px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/2d3661a582f98769745790e76b8acdbe2f5ba7c8/assets/abtl/abtl-e09-map-basement.png"
+/>
+
+Map: 09.09 in Foundry.
+
+**27. Vaulted Passage.** Brick vault, wall lamps.
+
+**28. Wine Cellar.** Racks, the cellar book.
+
+**29. Beer Cellar.** Casks on stillages.
+
+**30. Stores.** Crates and sacks.
+
+**31. Larders.** Hams, game, crocks.
+
+**32. The Locked Room.** Where the two women were kept. Key on the housekeeper (13). A **Corrupted Cultist** and an **Aberration** guard it.
+
+**33. Strong Room.** Family plate, a safe.
+
+**34. Lamp Room.** Most lantern racks empty.
+
+**35. Laundry.** Copper boilers, a mangle.
+
+**36. Game Larder.** Hooks of game.
+
+**37. Boiler Room.** A **Corrupted Cultist**, the boilerman, keeps the fire in.
+
+**38. Coal Cellar.** Coal under chute D.
+}}
+
+### Ether Summons
+Claremonte House is thin to the outside. Any spell or curse cast inside it, by a player or a cultist, has a __% chance to pull a hungry Mythos creature through. It appears beside the caster and attacks whoever is nearest. The cultists know this and cast anyway.
+
+\column
+
+**What Comes Through.** Roll d10 + spell level.
+
+| d10 + level | Creature |
+|:-:|:--|
+| 1–4 | Ether Ameba, small |
+| 5–7 | Ether Ameba, medium |
+| 8–9 | Ether Ameba, large |
+| 10–11 | Flying Polyp |
+| 12–13 | Dimensional Shambler |
+| 14–15 | Colour Out of Space |
+| 16+ | Hunting Horror |
+
+### Scene 6: Into the House
+***Claremonte Gardens. Night. ~90 min***
+
+{{descriptive
+A dark H-shaped house of grey stone. Lamps burn in the low windows of the east wing. The rest of the house is black.
+}}
+
+**What's Happening.** The household is awake below stairs, getting ready to go down to the ritual. The players are looking for Claudia.
+
+**Clues.** The study map (6), the day book (10), the linen book (13) and the Locked Room (32) all point to the deer park. None of them names Claudia.
+
+**Scene Flow.** Run the house from the map key. The players pick their way in and their route. Every cultist fights to the death and casts freely.
+
+\column
+
+### Scene 7: The Locked Room
+***The Basement (32). Night. ~30 min***
+
+{{descriptive
+An iron-banded door at the end of the vaulted passage.
+}}
+
+**What's Happening.** A Corrupted Cultist and an Aberration guard the door. Killing the Corrupted Cultist raises a second Aberration.
+
+**Inside.** Two beds with straps, chamber pots, basins and towels, food trays and a medicine tray, robes on pegs, a table of ritual items. Both beds are empty and stripped. The women were taken out tonight.
+
+##### Skill Checks
+{{noIndent
+**Athletics DC 20.** Force the door without the housekeeper's key.
+}}
+
+### Scene 8: The Window
+***Guest Bedroom (15) or Staff Bedroom (26). Before ten. ~10 min***
+
+{{descriptive
+A window over the dark lawns. Beyond them the lake, and beyond the lake the black line of the deer park.
+}}
+
+**What's Happening.** Lanterns move among the trees across the lake and gather in a clearing. The ritual has begun. The players believe Claudia is there. End the episode.
+
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Nine
+  }}
+  {{pointed-right
+    Back in the Village
+  }}
+}}
+
+
+### Resolution
+
+**Outcome Ladder.**
+
+- **Total success.** The players reach the window with the house cleared or bypassed and the Doom Counter low.
+- **Mixed.** They reach the window after a long fight. The ritual is well under way.
+- **Total failure.** They reach the window with the house in uproar and creatures loose behind them.
+
+**Rewards.** TBD.
+
+**Threads and Dead Ends.**
+
+- **The deer park.** Episode Ten.
+- **Claudia.** Moved before the players arrived. Nothing here says where.
+- **The dismissed servants.** A dead end. They know the house, not the cult.
+
+## Cast
+
+{{castMember
+##### The Housemaid
+*Dismissed from Claremonte Gardens.*
+
+*Description*: Her box at her feet, her month's wages on the table.
+
+*Mannerisms*: Glad to be out of that house, and says so.
+
+*Intent*: Knows the house and its doors. Heard a woman crying in the cellar.
+}}
+
+{{castMember
+##### The Groom
+*Dismissed from Claremonte Gardens.*
+
+*Description*: Riding boots, straw on his coat.
+
+*Mannerisms*: Talks about the horses, not the people.
+
+*Intent*: Knows the stables, the grounds and the watchmen's round.
+}}
+
+\column
+
+{{castMember
+##### The Priest of the Martyr
+*Keeper of the Silverbrook brazier.*
+
+*Description*: Soot on his sleeves from tending the flame.
+
+*Mannerisms*: Counts the empty pews aloud.
+
+*Intent*: Notes the big house stopped coming to services months ago.
+}}
+
+{{castMember
+##### The Butler
+*Cultist Elder. Butler's Pantry (10).*
+
+*Description*: Black tailcoat, the day book under his hand.
+
+*Mannerisms*: Orderly to the last.
+
+*Intent*: Send the household down to the deer park by ten.
+}}
+
+{{castMember
+##### The Housekeeper
+*Cultist Elder. Housekeeper's Room (13).*
+
+*Description*: Black dress, a ring of keys at her waist.
+
+*Mannerisms*: Speaks softly. Never hurries.
+
+*Intent*: Kept the two women. Carries the key to the Locked Room.
+}}
+
+\column
+
+## Horrors
+
+<img name="Ether Ameba"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 215px;
+    --dropcap-left: 0px;
+    --dropcap-right: 0px;
+    --dropcap-top: 0px;
+    --dropcap-bottom: 0px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/2d3661a582f98769745790e76b8acdbe2f5ba7c8/assets/abtl/abtl-e09-ether-ameba.png"
+/>
+
+{{castMember
+##### Mythos Cultists
+*Stat blocks to come.*
+
+**Cultist.** Poison dagger. Casts Pox curses. No death curse.
+
+**Corrupted Cultist.** Stronger and tougher. Hits inflict Nox. Rises as an Aberration.
+
+**Cultist Elder.** Mythos spells. Can become an Aberration without dying. Death curse inflicts Nox.
+
+**Aberration.** A tentacled Mythos transformation. Death curse inflicts Pox.
+}}
+
+{{castMember
+##### Ether Creatures
+*Stat blocks to come.*
+
+**Ether Ameba.** Translucent, dog-sized to carriage-sized. Engulfs and digests. Pours under doors. A hit that does not kill it splits it in two.
+
+**Flying Polyp.** Partly invisible, made of wind. Slams doors, blows out lamps, hurls furniture.
+
+**Dimensional Shambler.** Grabs a victim and steps out of the world with them. The victim reappears rounds later elsewhere in the house.
+
+**Colour Out of Space.** A shifting light. Drains everything it touches grey and brittle.
+
+**Hunting Horror.** A great black flying serpent. Flees light.
+}}
