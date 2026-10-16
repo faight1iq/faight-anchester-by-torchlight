@@ -1,0 +1,171 @@
+[
+ {
+  "name": "Overview",
+  "type": "text",
+  "html": "<h2>Back in the Village</h2>\n<p>Colonel Standard is dead, but his iron gate key leads to Claremonte Gardens, a country house outside the village of Silverbrook, east of East Row. The players are looking for Claudia Bay. The cult kept two pregnant women in the house. Tonight it moved Claudia somewhere else and took the other woman to a clearing in the deer park, across the lake, for a ritual. The cultists left behind hold the house, and every spell cast inside it may pull something hungry through from the other side.</p>\n<h3>Episode Summary</h3>\n<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\"><strong>Players</strong></td>\n<td style=\"text-align: left;\">3-6, Level 13</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Duration</strong></td>\n<td style=\"text-align: left;\">~4 hours</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Pacing</strong></td>\n<td style=\"text-align: left;\">Reveal; Social; Crawl</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Scenes</strong></td>\n<td style=\"text-align: left;\">8</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Cast</strong></td>\n<td style=\"text-align: left;\">Villagers of Silverbrook; the cultists of Claremonte Gardens</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Reward</strong></td>\n<td style=\"text-align: left;\">TBD</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>References</strong></td>\n<td style=\"text-align: left;\">Doom Counter; Dread Insight; Ether Summons; Claremonte Gardens maps; Mythos Cultist stat blocks</td>\n</tr>\n</tbody>\n</table>\n<h3>Timeline</h3>\n<p><strong>Fifteen years ago.</strong> A collector had the Pale Journals stolen from a temple in Sai Abbadon and brought to Anchester.</p>\n<p><strong>Weeks ago.</strong> At Paschendale the serum made from the Journals turned the volunteers into monsters. The city was told it was a victory.</p>\n<p><strong>Days ago.</strong> Colonel Standard took Claudia Bay, the pregnant wife of Sergeant Freitman Bay, to the Clairvoyant.</p>\n<p><strong>Yesterday.</strong> At the Lord of Light's gala a dragonborn assassin killed Standard. The players took his Pale Journal and an iron gate key from his body.</p>\n<p><strong>Today.</strong> The cult at Claremonte Gardens has sent the ordinary servants away. Claudia has been moved. The ritual in the deer park begins at ten.</p>\n<h3>Episode Structure</h3>\n<p>The players read the Journal and follow the key out of the city to Silverbrook. They spend a short time in the village, then go up to the estate.</p>\n<p>The house is the dungeon. Its rooms, occupants and threats are set; the players decide how to deal with each one: sneak past, talk, or fight. Nothing outside the house points to the ritual. The clues are inside. Everyone at the estate tonight is a cultist.</p>\n<p>The Clairvoyant knew the cult might have been compromised, but judged the ritual too important not to attempt.</p>\n<p>The episode ends at a second-floor window, when the players see the ritual lights in the deer park and believe Claudia is there. She is not. That is Episode Ten.</p>"
+ },
+ {
+  "name": "The Doom Counter",
+  "type": "text",
+  "html": "<h3>The Doom Counter</h3>\n<p><strong>Start:</strong> equal to the party's number of Dread Insights.</p>\n<p><strong>Add 1 Doom</strong> each time a body is found, an alarm is rung, or a creature comes loose.</p>\n<h4>Escalating Doom</h4>\n<table>\n<thead>\n<tr>\n<th style=\"text-align: center;\">Mark</th>\n<th style=\"text-align: left;\">Escalation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">3</td>\n<td style=\"text-align: left;\">The watchmen find a sign of entry and check every outside door.</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">6</td>\n<td style=\"text-align: left;\">The household is roused and gathers in the service wing.</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">9</td>\n<td style=\"text-align: left;\">The Elders cast on purpose, to pull creatures through.</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">12</td>\n<td style=\"text-align: left;\">A creature comes through with no spell cast.</td>\n</tr>\n</tbody>\n</table>\n<h4>Manifesting Doom</h4>\n<table>\n<thead>\n<tr>\n<th style=\"text-align: center;\">Cost</th>\n<th style=\"text-align: left;\">Doom</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">1</td>\n<td style=\"text-align: left;\">Mythos Disadvantage</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">1</td>\n<td style=\"text-align: left;\">Murphy's Law</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">2</td>\n<td style=\"text-align: left;\">Cut Off</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">3</td>\n<td style=\"text-align: left;\">Sound the Alarm!</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">3</td>\n<td style=\"text-align: left;\">Enemy Reinforcements</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">5</td>\n<td style=\"text-align: left;\">Activate one Dread Ability</td>\n</tr>\n</tbody>\n</table>\n<h3>Doom Costs</h3>\n<p><strong>Mythos Disadvantage.</strong> Disadvantage on one roll.</p>\n<p><strong>Murphy's Law.</strong> A board creaks, a door sticks, a lamp gutters out.</p>\n<p><strong>Cut Off.</strong> A door is locked or a passage is blocked. The players must go around.</p>\n<p><strong>Sound the Alarm!</strong> A cultist rings the dinner gong or a bell pull. Every cultist on that floor comes.</p>\n<p><strong>Enemy Reinforcements.</strong> A cultist from the next room joins the fight.</p>\n<p><strong>Activate one Dread Ability.</strong> Trigger a Dread Insight already held by a player.</p>"
+ },
+ {
+  "name": "Claremonte Gardens (Map)",
+  "type": "image",
+  "src": "modules/faight-anchester-by-torchlight/assets/scenes/abtl-e09-book-map-grounds.webp",
+  "caption": "The grounds, keyed G1 to G5 and doors A to F. Foundry scene 09.06."
+ },
+ {
+  "name": "The Grounds",
+  "type": "text",
+  "html": "<h4>The Grounds</h4>\n<p>Map: @UUID[Scene.SCENE0906]{09.06 Grounds}.</p>\n<p><strong>G1. Forecourt and Drive.</strong> Gravel turning circle, lawn island, mounting block. The porch lanterns are unlit.</p>\n<p><strong>G2. Terrace and Parterre.</strong> Flagged terrace, box-hedged beds, the fountain and the Long Walk. Two <strong>Corrupted Cultists</strong>, the watchmen, walk a circuit of the house with a shuttered lantern.</p>\n<p><strong>G3. Stable Court.</strong> Two horses in the loose boxes. In the coach house a carriage, and one bay empty.</p>\n<p><strong>G4. Dovecote.</strong> A round brick tower full of pigeons.</p>\n<p><strong>G5. Walled Garden.</strong> Vegetable beds, cold frames, three glasshouses, and a potting shed with tools and a locked poison cupboard. An <strong>Awakened Cultist</strong>, the under-gardener, is in the shed.</p>\n<h4>Ways In</h4>\n<p><strong>A.</strong> The front door, through the porch.</p>\n<p><strong>B.</strong> The library garden door.</p>\n<p><strong>C.</strong> The servants' entrance.</p>\n<p><strong>D.</strong> The coal chute, into the coal cellar.</p>\n<p><strong>E.</strong> The door in the walled garden.</p>\n<p><strong>F.</strong> The study garden door.</p>\n<h4>Running the Crawl</h4>\n<p>Every cultist here is hostile. None surrender, and all of them cast. Let the players choose how to deal with each room.</p>\n<h4>The Cultists</h4>\n<p>Not very sturdy. Killing one sets off its death curse.</p>\n<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Type</th>\n<th style=\"text-align: left;\">Death curse</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\"><strong>Awakened Cultist</strong></td>\n<td style=\"text-align: left;\">None</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Corrupted Cultist</strong></td>\n<td style=\"text-align: left;\">Rises as an Awakened Aberration</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Cultist Elder</strong></td>\n<td style=\"text-align: left;\">Befuddling Nox; rises as a Corrupted Aberration</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Aberrations</strong></td>\n<td style=\"text-align: left;\">Befuddling or Tormenting Pox</td>\n</tr>\n</tbody>\n</table>\n<h4>The Household at a Glance</h4>\n<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Where</th>\n<th style=\"text-align: left;\">Who</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Lodge</td>\n<td style=\"text-align: left;\">Awakened Cultist</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Terrace (G2)</td>\n<td style=\"text-align: left;\">Corrupted Cultist x2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Potting shed (G5)</td>\n<td style=\"text-align: left;\">Awakened Cultist</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Entrance Hall (1)</td>\n<td style=\"text-align: left;\">Corrupted Cultist</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Kitchen (8)</td>\n<td style=\"text-align: left;\">Awakened Cultist x2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Butler's Pantry (10)</td>\n<td style=\"text-align: left;\">Cultist Elder</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Servants' Hall (11)</td>\n<td style=\"text-align: left;\">Corrupted Cultist x2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Housekeeper (13)</td>\n<td style=\"text-align: left;\">Cultist Elder</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Guest Bedroom (15)</td>\n<td style=\"text-align: left;\">Awakened Cultist</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Locked Room (32)</td>\n<td style=\"text-align: left;\">Corrupted Cultist, Aberration</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Boiler Room (37)</td>\n<td style=\"text-align: left;\">Corrupted Cultist</td>\n</tr>\n</tbody>\n</table>"
+ },
+ {
+  "name": "Claremonte House (Map)",
+  "type": "image",
+  "src": "modules/faight-anchester-by-torchlight/assets/scenes/abtl-e09-book-map-house.webp",
+  "caption": "Ground floor (1 to 13) and second floor (14 to 26). Foundry scenes 09.07 and 09.08."
+ },
+ {
+  "name": "Ground Floor",
+  "type": "text",
+  "html": "<h4>Ground Floor</h4>\n<p>Map: @UUID[Scene.SCENE0907]{09.07 Ground Floor}.</p>\n<p><strong>1. Entrance Hall.</strong> Marble floor, hall table, the dinner gong. A <strong>Corrupted Cultist</strong>, the footman, sits up on a hall chair to answer the door.</p>\n<p><strong>2. Stair Hall.</strong> The main stair, a long-case clock, a bell pull.</p>\n<p><strong>3. Drawing Room.</strong> Grand piano, porcelain, dust sheets. Empty.</p>\n<p><strong>4. Library.</strong> Bookcases, reading tables, decanters. Door B. Empty.</p>\n<p><strong>5. Billiard Room.</strong> A locked gun cabinet. Empty.</p>\n<p><strong>6. Study.</strong> Desk, estate ledgers, a wall safe, a map chest. Door F. Empty.</p>\n<p><strong>Clue.</strong> In the map chest, an estate map with a clearing in the deer park marked in fresh pencil.</p>\n<p><strong>7. Dining Room.</strong> Long table, sideboards of silver. Empty.</p>\n<p><strong>8. Kitchen.</strong> The range banked for the night. Baskets packed with linen, lanterns, brandy and food. Two <strong>Awakened Cultists</strong>, the cook and the kitchen hand, pack the last of them.</p>\n<p><strong>9. Service Passage.</strong> The bell board, mostly empty coat pegs. Door C.</p>\n<p><strong>10. Butler's Pantry.</strong> Silver chests, the day book, the cellar keys. A <strong>Cultist Elder</strong>, the butler, sits at his desk.</p>\n<p><strong>Clue.</strong> Today's entry in the day book: cart, lanterns and linen \"to the deer park clearing by ten.\"</p>\n<p><strong>11. Servants' Hall.</strong> Long table, a staff rota with most names struck through. Two <strong>Corrupted Cultists</strong> wait here.</p>\n<p><strong>12. Back Staircase.</strong> From the basement to the ground floor.</p>\n<p><strong>13. Housekeeper's Room.</strong> The linen book, a key board with one key missing. A <strong>Cultist Elder</strong>, the housekeeper, carries that key: the key to the Locked Room (32).</p>\n<p><strong>Clue.</strong> The linen book notes the old linen \"sent down to the deer park.\"</p>"
+ },
+ {
+  "name": "Second Floor",
+  "type": "text",
+  "html": "<h4>Second Floor</h4>\n<p>Map: @UUID[Scene.SCENE0908]{09.08 Second Floor}.</p>\n<p><strong>14. Bedrooms.</strong> Two rooms in the west wing under dust sheets. Empty.</p>\n<p><strong>15. Guest Bedroom.</strong> A window seat in the south window. An <strong>Awakened Cultist</strong> keeps lookout there.</p>\n<p><strong>16. West-Wing Corridor.</strong> Runner and portraits.</p>\n<p><strong>17. Sitting Room.</strong> Writing desk, sewing table. Empty.</p>\n<p><strong>18. Landing.</strong> A stone landing under two windows. Side flights lead to the second floor; the grand stair between them goes down to the Stair Hall (2).</p>\n<p><strong>19. Dressing Room.</strong> Wardrobes, a cheval mirror. Empty.</p>\n<p><strong>20. Gallery.</strong> Carpet runner, paintings.</p>\n<p><strong>21. Principal Bedroom.</strong> Four-poster, a locked jewellery box. Empty.</p>\n<p><strong>22. Bathroom.</strong> Roll-top bath, gas geyser.</p>\n<p><strong>23. Linen Room.</strong> Shelves stripped of the old linen.</p>\n<p><strong>24. Service Hall.</strong> An L-shaped passage with a long runner, from the baize door to the staff rooms.</p>\n<p><strong>25. Linen Closet.</strong> Shelves of folded sheets and towels, a linen press, laundry baskets.</p>\n<p><strong>26. Staff Bedroom.</strong> Two beds stripped. A south window.</p>\n<p><strong>Clue.</strong> The south windows of 15 and 26 look across the lake to the deer park.</p>"
+ },
+ {
+  "name": "The Basement (Map)",
+  "type": "image",
+  "src": "modules/faight-anchester-by-torchlight/assets/scenes/abtl-e09-book-map-basement.webp",
+  "caption": "The basement, keyed 27 to 38. Foundry scene 09.09."
+ },
+ {
+  "name": "Basement",
+  "type": "text",
+  "html": "<h4>Basement</h4>\n<p>Map: @UUID[Scene.SCENE0909]{09.09 Basement}.</p>\n<p><strong>27. Vaulted Passage.</strong> Brick vault, wall lamps.</p>\n<p><strong>28. Wine Cellar.</strong> Racks, the cellar book.</p>\n<p><strong>29. Beer Cellar.</strong> Casks on stillages.</p>\n<p><strong>30. Stores.</strong> Crates and sacks.</p>\n<p><strong>31. Larders.</strong> Hams, game, crocks.</p>\n<p><strong>32. The Locked Room.</strong> Where the two women were kept. Key on the housekeeper (13). A <strong>Corrupted Cultist</strong> and an <strong>Awakened Aberration</strong> guard it.</p>\n<p><strong>33. Strong Room.</strong> Family plate, a safe.</p>\n<p><strong>34. Lamp Room.</strong> Most lantern racks empty.</p>\n<p><strong>35. Laundry.</strong> Copper boilers, a mangle.</p>\n<p><strong>36. Game Larder.</strong> Hooks of game.</p>\n<p><strong>37. Boiler Room.</strong> A <strong>Corrupted Cultist</strong>, the boilerman, keeps the fire in.</p>\n<p><strong>38. Coal Cellar.</strong> Coal under chute D.</p>"
+ },
+ {
+  "name": "Ether Summons",
+  "type": "text",
+  "html": "<p>Claremonte House is thin to the outside. Any spell or curse cast inside it, by a player or a cultist, has a __% chance to pull a hungry Mythos creature through. It appears beside the caster and attacks whoever is nearest. The cultists know this and cast anyway.</p>\n<p><strong>What Comes Through.</strong> Roll d10 + spell level.</p>\n<table>\n<thead>\n<tr>\n<th style=\"text-align: center;\">d10 + level</th>\n<th style=\"text-align: left;\">Creature</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">1-4</td>\n<td style=\"text-align: left;\">Ether Ameba, small</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">5-7</td>\n<td style=\"text-align: left;\">Ether Ameba, medium</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">8-9</td>\n<td style=\"text-align: left;\">Ether Ameba, large</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">10-11</td>\n<td style=\"text-align: left;\">Flying Polyp</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">12-13</td>\n<td style=\"text-align: left;\">Dimensional Shambler</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">14-15</td>\n<td style=\"text-align: left;\">Colour Out of Space</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">16+</td>\n<td style=\"text-align: left;\">Hunting Horror</td>\n</tr>\n</tbody>\n</table>"
+ },
+ {
+  "name": "Scene 1: The Journal and the Key",
+  "type": "text",
+  "html": "<p><strong><em>The Clarion Society. Day. ~20 min</em></strong></p>\n<blockquote class=\"readaloud\"><p>Colonel Standard's Pale Journal lies open on the library table, beside an iron gate key on a broken watch chain.</p></blockquote>\n\n<p><strong>What's Happening.</strong> The players study what they took from Standard's body. The Journal tells them the Clairvoyant means to become a God King through the power of an outsider. It does not say how, or who.</p>\n<p><strong>The Key.</strong> A brass tag on the key is stamped <em>Claremonte Gdns. Lodge</em>.</p>\n<h4>Skill Checks</h4>\n<p><strong>History DC 12.</strong> Claremonte Gardens is a country house outside the village of Silverbrook, east of East Row. On a failure, any Clarion Society member knows it.</p>\n<p><strong>Scene Flow.</strong> The ride out takes most of the day. The players reach Silverbrook in the late afternoon.</p>"
+ },
+ {
+  "name": "Scene 2: The Green",
+  "type": "text",
+  "html": "<p><strong><em>The Green, Silverbrook. Day. ~15 min</em></strong></p>\n<blockquote class=\"readaloud\"><p>A wide green with a pond and a pump. Cottages face it on three sides, and a lane leaves the far corner toward a pair of stone gateposts.</p></blockquote>\n\n<p><strong>What's Happening.</strong> Children sent out from the city to live and work in the country are playing on the green. Villagers are going home for supper.</p>\n<p><strong>Clues.</strong> The children know the big house stopped taking deliveries this week, and that its servants came down the lane with their boxes. They send the players to the Claremonte Arms, where some of those servants are staying.</p>"
+ },
+ {
+  "name": "Scene 3: The Claremonte Arms",
+  "type": "text",
+  "html": "<p><strong><em>The Claremonte Arms, taproom. Evening. ~30 min</em></strong></p>\n<blockquote class=\"readaloud\"><p>A low-beamed taproom with a fire at one end and settles along the walls. Pewter mugs hang over the bar.</p></blockquote>\n\n<p><strong>What's Happening.</strong> A housemaid and a groom sent away from Claremonte Gardens drink here on the month's wages they were paid to leave. They know nothing of the cult.</p>\n<p><strong>Clues.</strong> The two of them describe the house and its ways in: the front door, the library and study garden doors, the servants' entrance, the coal chute, and the door in the walled garden. The butler and the housekeeper kept the rest of the staff on.</p>\n<h4>Skill Checks</h4>\n<p><strong>Persuasion DC 15.</strong> The housemaid admits she was forbidden the cellar, and heard a woman crying down there. The housekeeper told her it was a cat.</p>\n<p><strong>Scene Flow.</strong> The servants know nothing of the deer park or a ritual.</p>"
+ },
+ {
+  "name": "Scene 4: The Churchyard",
+  "type": "text",
+  "html": "<p><strong><em>The Churchyard, Silverbrook. Dusk. ~15 min</em></strong></p>\n<blockquote class=\"readaloud\"><p>Leaning stones under old yews. The church tower rises over them, and a flame burns in the iron brazier at its top.</p></blockquote>\n\n<p><strong>What's Happening.</strong> A priest of the Martyr tends the brazier. He says the household from the big house stopped coming to services months ago.</p>\n<p><strong>From the Tower.</strong> The roofs of Claremonte House show above the trees. Lamps are lit below stairs; the main rooms are dark. The house and the woods hide the deer park.</p>\n<p><strong>Scene Flow.</strong> This scene is optional. Nothing is lost if the players skip it.</p>"
+ },
+ {
+  "name": "Scene 5: The Lodge Gates",
+  "type": "text",
+  "html": "<p><strong><em>The Lodge Gates. Night. ~15 min</em></strong></p>\n<blockquote class=\"readaloud\"><p>Two stone gateposts and a pair of iron gates, chained shut. A lamp burns in the window of the lodge beside them.</p></blockquote>\n\n<p><strong>What's Happening.</strong> The gatekeeper, an <strong>Awakened Cultist</strong>, sits at the lodge window. Standard's key opens the gate chain.</p>\n<h4>Skill Checks</h4>\n<p><strong>Stealth DC 15.</strong> The players pass the lodge unseen. On a failure, the gatekeeper sees them and comes out casting.</p>\n<p><strong>Athletics DC 12.</strong> Climb the park wall instead of using the gate.</p>\n<p><strong>Scene Flow.</strong> Once the players are through, move to the grounds map and run the crawl.</p>"
+ },
+ {
+  "name": "Scene 6: Into the House",
+  "type": "text",
+  "html": "<p><strong><em>Claremonte Gardens. Night. ~90 min</em></strong></p>\n<blockquote class=\"readaloud\"><p>A dark H-shaped house of grey stone. Lamps burn in the low windows of the east wing. The rest of the house is black.</p></blockquote>\n\n<p><strong>What's Happening.</strong> The household is awake below stairs, getting ready to go down to the ritual. The players are looking for Claudia.</p>\n<p><strong>Clues.</strong> The study map (6), the day book (10), the linen book (13) and the Locked Room (32) all point to the deer park. None of them names Claudia.</p>\n<p><strong>Scene Flow.</strong> Run the house from the map key. The players pick their way in and their route. Every cultist fights to the death and casts freely.</p>"
+ },
+ {
+  "name": "Scene 7: The Locked Room",
+  "type": "text",
+  "html": "<p><strong><em>The Basement (32). Night. ~30 min</em></strong></p>\n<blockquote class=\"readaloud\"><p>An iron-banded door at the end of the vaulted passage.</p></blockquote>\n\n<p><strong>What's Happening.</strong> A Corrupted Cultist and an Awakened Aberration guard the door. Killing the Corrupted Cultist raises a second Awakened Aberration.</p>\n<p><strong>Inside.</strong> Two beds with straps, chamber pots, basins and towels, food trays and a medicine tray, robes on pegs, a table of ritual items. Both beds are empty and stripped. The women were taken out tonight.</p>\n<h4>Skill Checks</h4>\n<p><strong>Athletics DC 20.</strong> Force the door without the housekeeper's key.</p>"
+ },
+ {
+  "name": "Scene 8: The Window",
+  "type": "text",
+  "html": "<p><strong><em>Guest Bedroom (15) or Staff Bedroom (26). Before ten. ~10 min</em></strong></p>\n<blockquote class=\"readaloud\"><p>A window over the dark lawns. Beyond them the lake, and beyond the lake the black line of the deer park.</p></blockquote>\n\n<p><strong>What's Happening.</strong> Lanterns move among the trees across the lake and gather in a clearing. The ritual has begun. The players believe Claudia is there. End the episode.</p>"
+ },
+ {
+  "name": "Resolution",
+  "type": "text",
+  "html": "<p><strong>Outcome Ladder.</strong></p>\n<ul>\n<li><strong>Total success.</strong> The players reach the window with the house cleared or bypassed and the Doom Counter low.</li>\n<li><strong>Mixed.</strong> They reach the window after a long fight. The ritual is well under way.</li>\n<li><strong>Total failure.</strong> They reach the window with the house in uproar and creatures loose behind them.</li>\n</ul>\n<p><strong>Rewards.</strong> TBD.</p>\n<p><strong>Threads and Dead Ends.</strong></p>\n<ul>\n<li><strong>The deer park.</strong> Episode Ten.</li>\n<li><strong>Claudia.</strong> Moved before the players arrived. Nothing here says where.</li>\n<li><strong>The dismissed servants.</strong> A dead end. They know the house, not the cult.</li>\n</ul>"
+ },
+ {
+  "name": "Cast",
+  "type": "text",
+  "html": "<h4>The Housemaid</h4>\n<p><em>Dismissed from Claremonte Gardens.</em></p>\n<p><em>Description</em>: Her box at her feet, her month's wages on the table.</p>\n<p><em>Mannerisms</em>: Glad to be out of that house, and says so.</p>\n<p><em>Intent</em>: Knows the house and its doors. Heard a woman crying in the cellar.</p>\n<h4>The Groom</h4>\n<p><em>Dismissed from Claremonte Gardens.</em></p>\n<p><em>Description</em>: Riding boots, straw on his coat.</p>\n<p><em>Mannerisms</em>: Talks about the horses, not the people.</p>\n<p><em>Intent</em>: Knows the stables, the grounds and the watchmen's round.</p>\n<h4>The Priest of the Martyr</h4>\n<p><em>Keeper of the Silverbrook brazier.</em></p>\n<p><em>Description</em>: Soot on his sleeves from tending the flame.</p>\n<p><em>Mannerisms</em>: Counts the empty pews aloud.</p>\n<p><em>Intent</em>: Notes the big house stopped coming to services months ago.</p>\n<h4>The Butler</h4>\n<p><em>Cultist Elder. Butler's Pantry (10).</em></p>\n<p><em>Description</em>: Black tailcoat, the day book under his hand.</p>\n<p><em>Mannerisms</em>: Orderly to the last.</p>\n<p><em>Intent</em>: Send the household down to the deer park by ten.</p>\n<h4>The Housekeeper</h4>\n<p><em>Cultist Elder. Housekeeper's Room (13).</em></p>\n<p><em>Description</em>: Black dress, a ring of keys at her waist.</p>\n<p><em>Mannerisms</em>: Speaks softly. Never hurries.</p>\n<p><em>Intent</em>: Kept the two women. Carries the key to the Locked Room.</p>"
+ },
+ {
+  "name": "Horrors",
+  "type": "horrors",
+  "list": [
+   [
+    "Awakened Cultist",
+    "Humanoid (cultist), CR 5.",
+    "AC12; HP24; Poisoned Dagger+10/1d4+4 and Poisoned; Pox Curse DC15 Con/2d8+3 + Rotting Pox (rech 5-6); Spiteful Curse (reaction) DC15 Con or Rotting Pox"
+   ],
+   [
+    "Corrupted Cultist",
+    "Humanoid (cultist), CR 6.",
+    "AC13; HP40; Poisoned Dagger+10/2d4+4; Pox Curse DC15 Con/4d6+4 (rech 5-6); Call the Outside (bonus, 10 temp HP); Spiteful Curse (reaction). Dies: rises on Init 20 as an Awakened Aberration"
+   ],
+   [
+    "Cultist Elder",
+    "Humanoid (cultist), CR 7. The butler and the housekeeper.",
+    "AC14; HP63; Poisoned Dagger+9/2d4+6; Pox Curse DC15 Con/4d8+4 (rech 5-6); chill touch, bane, hold person (DC15); Call the Outside; Spiteful Curse. Dies: the room DC15 Cha or Befuddling Nox; rises on Init 20 as a Corrupted Aberration"
+   ],
+   [
+    "Awakened Aberration",
+    "Aberration, CR 11.",
+    "AC17; HP150; Face Tentacles+13/3d10+4 psychic and Grappled; Psychic Blast 45-ft cone DC16 Int/9d8 and Stunned (rech 5-6); Seize, Mind Recoil (reactions). Dies: killer DC16 Cha or Befuddling Pox"
+   ],
+   [
+    "Corrupted Aberration",
+    "Large aberration, CR 13.",
+    "AC17; HP180; Face Tentacles+14/4d8+4; Psychic Blast 60-ft cone DC18 Int/8d10 (rech 5-6); mind spike, black tentacles, confusion (DC18); Seize, Mind Recoil. Dies: killer DC18 Cha or Tormenting Pox"
+   ],
+   [
+    "Ether Ameba (Small)",
+    "Small ooze, CR 9. Ether summons.",
+    "AC15; HP60; Pseudopod+11/2d8+4 acid; Engulf Limb DC15 Dex/4d10+4 and Restrained (rech 5-6); Pour Away (reaction); splits below half HP"
+   ],
+   [
+    "Ether Ameba (Medium)",
+    "Large ooze, CR 11. Ether summons.",
+    "AC15; HP102; Pseudopod+12/3d10+4 acid; Engulf DC16 Dex/9d8 (rech 5-6); Pour Away; splits into two Small"
+   ],
+   [
+    "Ether Ameba (Large)",
+    "Huge ooze, CR 13. Ether summons.",
+    "AC17; HP180; Pseudopod+14/4d10+6 acid; Engulf up to two creatures DC18 Dex/16d6 (rech 5-6); Pour Away; splits into two Medium"
+   ],
+   [
+    "Flying Polyp",
+    "Large aberration, CR 13. Ether summons.",
+    "AC17; HP150; Flicker (invisible on 1-3); Wind Lash+14/4d10+6, push 15 ft; Gale 60-ft cone DC18 Str/16d6, Prone (rech 5-6); Slam the House (bonus); Gust (reaction)"
+   ],
+   [
+    "Dimensional Shambler",
+    "Large aberration, CR 14. Ether summons.",
+    "AC17; HP195; Hooked Claws+15/4d12+4 and Grappled; Step Between Worlds DC18 Cha/11d10, victim reappears in a random room in 1d4 rounds (rech 5-6); Fold Away (reaction)"
+   ],
+   [
+    "Colour Out of Space",
+    "Large aberration, CR 15. Ether summons.",
+    "AC18; HP209; resists weapons; Draining Touch+16/6d10, lowers HP max; Grey Bloom 60-ft cone DC19 Con/12d10 + 1 Exhaustion (rech 5-6); Flare (bonus); Drawn to Magic (reaction)"
+   ],
+   [
+    "Hunting Horror",
+    "Huge aberration, CR 17. Ether summons.",
+    "AC19; HP312; two attacks: Bite or Tail Coil+17/6d12+6; Seize and Carry DC20 Dex/20d8 (rech 5-6); Snuff the Lights (bonus); Light Aversion; Recoil from Light (reaction)"
+   ]
+  ]
+ }
+]
