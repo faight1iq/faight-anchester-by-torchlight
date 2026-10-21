@@ -25,31 +25,38 @@
     "requires": [
       {
         "id": "monks-active-tiles",
-        "type": "module"
+        "type": "module",
+        "manifest": "https://github.com/ironmonk108/monks-active-tiles/releases/latest/download/module.json"
       },
       {
         "id": "token-attacher",
-        "type": "module"
+        "type": "module",
+        "manifest": "https://github.com/KayelGee/token-attacher/releases/latest/download/module.json"
       },
       {
         "id": "betterroofs",
-        "type": "module"
+        "type": "module",
+        "manifest": "https://github.com/theripper93/Better-Roofs/releases/latest/download/module.json"
       },
       {
         "id": "fxmaster",
-        "type": "module"
+        "type": "module",
+        "manifest": "https://github.com/gambit07/fxmaster/releases/latest/download/module.json"
       },
       {
         "id": "tile-scroll",
-        "type": "module"
+        "type": "module",
+        "manifest": "https://github.com/theripper93/tile-scroll/releases/latest/download/module.json"
       },
       {
         "id": "tokenmagic",
-        "type": "module"
+        "type": "module",
+        "manifest": "https://github.com/Feu-Secret/Tokenmagic/releases/latest/download/module.json"
       },
       {
         "id": "tagger",
-        "type": "module"
+        "type": "module",
+        "manifest": "https://github.com/fantasycalendar/FoundryVTT-Tagger/releases/latest/download/module.json"
       }
     ]
   },
