@@ -368,8 +368,6 @@ The door closes. Replace Hester with **Hester Ascended**. She keeps the damage s
 
 **Mother and Child.** Hester Ascended goes for Edie and the child first. The child has AC 10 and 1 HP. A player can pick the child up as part of their movement.
 
-\column
-
 ### Scene 4: The Birth
 ***The Moon Mound. Night. ~15 min***
 
@@ -420,89 +418,7 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 - **The Proving.** "For ours" means another child. The players can guess whose. "Into me" means the writer wants this done to herself.
 - **Hester's villagers.** Dead or gone. Silverbrook will have questions in the morning.
 
-\page
-{{pageNumber,auto}}
-{{show-footer}}
-
-{{pageheader
-  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
-}}
-{{pageline
-  {{pointed-left
-    Handouts
-  }}
-  {{pointed-right
-    Moonchild
-  }}
-}}
-
-
-{{wide
-## Handouts
-}}
-
-#### The Proving
-*Found in Hester Crayle's bag. Two sheets of good paper, folded in four, in a neat, sloping hand.*
-
-{{atbl-flavor
-**The Proving.**
-
-Take the girl down to the deer park when she is near her time. Begin at ten, when the moon is over the trees.
-
-Five lamps on the five points, each kept by one of your own. Let none of them go out.
-
-Lay her on the old mound, inside the lamps, head to the north.
-
-When her pains come close together, speak the words on the second leaf, and do not stop.
-
-The birth opens the door. Be under it when it does. What comes through will come to you. Do not fight it.
-
-Write down everything: the hour, the moon, how long the door stays open, what comes, and what you feel as it takes you. If you cannot hold the pen, have one of yours write for you.
-
-If the door opens for this one, it will open for ours. If it will cross into you, it will cross into me.
-
-Send your account by the morning coach.
-}}
-
-\column
-
-#### Report to Mr. Connely
-*Found in Hester Crayle's bag. A single sheet in a cramped, careful hand, unfinished.*
-
-{{atbl-flavor
-Mr. Connely,
-
-As instructed. The Colonel's woman went up to town this evening in the closed carriage, with two of the house men. She was well.
-
-The Lamb girl's pains began at four. We go down to the park at nine. Lamps, linen and the cart are ready, and five of ours to keep the lamps.
-
-The Colonel did not come back from town. The household is uneasy. I have told them it makes no difference.
-
-I am honoured to be the one. If I cannot write afterward, Amos will.
-
-The door
-}}
-
-\page
-{{pageNumber,auto}}
-{{show-footer}}
-
-{{pageheader
-  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
-}}
-{{pageline
-  {{pointed-left
-    Episode Ten
-  }}
-  {{pointed-right
-    Moonchild
-  }}
-}}
-
-
-{{wide
 ## Cast
-}}
 
 {{castMember
 ##### Hester Crayle
@@ -536,6 +452,23 @@ The door
 
 *Intent*: Keep the lamps burning. None of them leaves the ring.
 }}
+
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Ten
+  }}
+  {{pointed-right
+    Moonchild
+  }}
+}}
+
 
 {{castMember
 ##### The Pike Brothers
@@ -603,4 +536,67 @@ The door
 **Corrupted Cultist.** CR 6, AC 13, HP 40. Rises on Init 20 as an **Awakened Aberration** (CR 11, AC 17, HP 150).
 
 **Hunting Horror.** Huge, CR 17, AC 19, HP 312. Comes only through Ether Summons.
+}}
+
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Handouts
+  }}
+  {{pointed-right
+    Moonchild
+  }}
+}}
+
+
+{{wide
+## Handouts
+}}
+
+#### The Proving
+*Found in Hester Crayle's bag. Two sheets of good paper, folded in four, in a neat, sloping hand.*
+
+{{atbl-flavor
+**The Proving.**
+
+Take the girl down to the deer park when she is near her time. Begin at ten, when the moon is over the trees.
+
+Five lamps on the five points, each kept by one of your own. Let none of them go out.
+
+Lay her on the old mound, inside the lamps, head to the north.
+
+When her pains come close together, speak the words on the second leaf, and do not stop.
+
+The birth opens the door. Be under it when it does. What comes through will come to you. Do not fight it.
+
+Write down everything: the hour, the moon, how long the door stays open, what comes, and what you feel as it takes you. If you cannot hold the pen, have one of yours write for you.
+
+If the door opens for this one, it will open for ours. If it will cross into you, it will cross into me.
+
+Send your account by the morning coach.
+}}
+
+\column
+
+#### Report to Mr. Connely
+*Found in Hester Crayle's bag. A single sheet in a cramped, careful hand, unfinished.*
+
+{{atbl-flavor
+Mr. Connely,
+
+As instructed. The Colonel's woman went up to town this evening in the closed carriage, with two of the house men. She was well.
+
+The Lamb girl's pains began at four. We go down to the park at nine. Lamps, linen and the cart are ready, and five of ours to keep the lamps.
+
+The Colonel did not come back from town. The household is uneasy. I have told them it makes no difference.
+
+I am honoured to be the one. If I cannot write afterward, Amos will.
+
+The door
 }}
