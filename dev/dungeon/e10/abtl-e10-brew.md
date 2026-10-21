@@ -442,17 +442,6 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 *Intent*: Live, and keep her child. Trusted Hester until tonight.
 }}
 
-{{castMember
-##### The Lamp Keepers
-*Five villagers of Silverbrook, sworn to the cult.*
-
-*Description*: Amos Wick, the chandler; Nan Tallow, his sister; Gideon Hookes, the reeve; Prue Mutter, the sexton's wife; Will Shank, the carter's boy. Each holds a lamp on a pole.
-
-*Mannerisms*: Chant with Hester and keep their eyes on the mound.
-
-*Intent*: Keep the lamps burning. None of them leaves the ring.
-}}
-
 \page
 {{pageNumber,auto}}
 {{show-footer}}
@@ -469,6 +458,17 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
   }}
 }}
 
+
+{{castMember
+##### The Lamp Keepers
+*Five villagers of Silverbrook, sworn to the cult.*
+
+*Description*: Amos Wick, the chandler; Nan Tallow, his sister; Gideon Hookes, the reeve; Prue Mutter, the sexton's wife; Will Shank, the carter's boy. Each holds a lamp on a pole.
+
+*Mannerisms*: Chant with Hester and keep their eyes on the mound.
+
+*Intent*: Keep the lamps burning. None of them leaves the ring.
+}}
 
 {{castMember
 ##### The Pike Brothers
