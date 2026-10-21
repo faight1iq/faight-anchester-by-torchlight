@@ -595,7 +595,7 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
     --dropcap-bottom: -6px;
     --dropcap-padding: 0px;
   "
-  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/70c1e852179f476457ce2931c5056f8ca56197e1/assets/abtl/abtl-e10-handout-01.png"
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/7018371e8cabae24b63acc43c7c83e5e9dee1b6c/assets/abtl/abtl-e10-handout-01.png"
 />
 
 \page
@@ -620,29 +620,46 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
   artist_url="https://startplaying.games/gm/faight-rpg"
   class="dropCapImage"
   style="
-    --dropcap-height: 470px;
-    --dropcap-left: 30px;
+    --dropcap-height: 970px;
+    --dropcap-left: 70px;
     --dropcap-right: 0px;
     --dropcap-top: -5px;
     --dropcap-bottom: -6px;
     --dropcap-padding: 0px;
   "
-  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/70c1e852179f476457ce2931c5056f8ca56197e1/assets/abtl/abtl-e10-handout-02.png"
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/7018371e8cabae24b63acc43c7c83e5e9dee1b6c/assets/abtl/abtl-e10-handout-02.png"
 />
+
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Ten
+  }}
+  **HANDOUTS**
+  {{pointed-right
+    Moonchild
+  }}
+}}
 
 <img name="Letter to Mrs. Crayle"
   artist="John W. Brown III"
   artist_url="https://startplaying.games/gm/faight-rpg"
   class="dropCapImage"
   style="
-    --dropcap-height: 470px;
-    --dropcap-left: 30px;
+    --dropcap-height: 970px;
+    --dropcap-left: 70px;
     --dropcap-right: 0px;
-    --dropcap-top: 10px;
+    --dropcap-top: -5px;
     --dropcap-bottom: -6px;
     --dropcap-padding: 0px;
   "
-  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/70c1e852179f476457ce2931c5056f8ca56197e1/assets/abtl/abtl-e10-handout-03.png"
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/7018371e8cabae24b63acc43c7c83e5e9dee1b6c/assets/abtl/abtl-e10-handout-03.png"
 />
 
 \page
@@ -674,5 +691,5 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
     --dropcap-bottom: -6px;
     --dropcap-padding: 0px;
   "
-  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/70c1e852179f476457ce2931c5056f8ca56197e1/assets/abtl/abtl-e10-handout-04.png"
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/7018371e8cabae24b63acc43c7c83e5e9dee1b6c/assets/abtl/abtl-e10-handout-04.png"
 />
