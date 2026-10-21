@@ -24,11 +24,13 @@
     and abilities; the arms growing as the track rises; the fluke dying when Hester Ascended dies;
     the outcome ladder; the new handout wording.
   - JOHN (2026-10-21): the Pale Journal page text is John's. The Second Leaf chant is Claude's, accepted.
-  - The wording of The Proving and the Report. The Proving says the rite is a test; it does not state the God King
+  - The wording of The Proving. The Proving says the rite is a test; it does not state the God King
     mechanism, name the Clairvoyant, or hint at who she is.
-  - The report says Claudia went "up to town" this evening in the closed carriage (E09: one coach-house
+  - JOHN (2026-10-21): no report from Hester (it would be in the house or already sent). Instead a letter TO
+    Hester in the Clairvoyant's hand: "Return the Bay girl with haste..." Every paper in the bag came from outside.
+    The Clairvoyant's hand is beautiful and androgynous. Mr. Connely is dropped.
+  - Claudia left this evening in the closed carriage (E09: one coach-house
     bay empty). It gives no address.
-  - Mr. Connely appears only as the name on the report. Who he is stays open.
   - Escalating Doom marks; The Herd; all skill checks and DCs; the Outcome Ladder.
   STILL OPEN: Reward; Insight Cue.
  -->
@@ -115,7 +117,7 @@ The lights across the lake are a ritual. Hester Crayle, the Silverbrook midwife,
 
 **Yesterday.** A dragonborn assassin killed Standard at the gala. The players took his Pale Journal and the gate key.
 
-**This evening.** Claudia left for town in the closed carriage. Edie's labour began. The household carried her down to the deer park.
+**This evening.** On orders by letter, the household sent Claudia away in the closed carriage. Edie's labour began. The household carried her down to the deer park.
 
 **Ten o'clock.** Hester lights the five lamps on the Moon Mound. **Tonight.**
 }}
@@ -127,7 +129,7 @@ The episode starts at the second-floor window where Episode Nine ended. The play
 
 The fight on the Moon Mound is the episode. It runs against the Crossing Track: one step a round. The players stop the ritual by putting out all five lamps or by killing Hester. If the track reaches six, the birth opens the door and a Greater Eye Fluke drops through. Unless the players kill it in the round it lands, it merges with Hester, and Hester Ascended turns on Edie and the child.
 
-After the fight, the players deliver the baby. Then they find Hester's bag: the instructions for the rite in the Clairvoyant's hand, and Hester's report to a Mr. Connely. The woman on the mound is not Claudia. Claudia went to town this evening.
+After the fight, the players deliver the baby. Then they find Hester's bag: the instructions for the rite and a letter, both in the Clairvoyant's hand, and a page of the Pale Journals. The woman on the mound is not Claudia. Claudia was sent away this evening.
 
 \column
 
@@ -416,13 +418,13 @@ The lamps are out. The clearing is dark except for the moon, and Edie is crying 
 Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a bottle of brandy, and a bundle of folded papers.
 }}
 
-**What's Happening.** The papers are four handouts: **The Proving** and its **Second Leaf**, in a hand that is not Hester's; Hester's unfinished **Report to Mr. Connely**; and a loose page of the **Pale Journals** in Ardavan's hand, folded inside The Proving.
+**What's Happening.** The papers are four handouts, all sent to Hester from outside Silverbrook: **The Proving** and its **Second Leaf**, and a **Letter to Mrs. Crayle**, all in the same beautiful hand that is not Hester's; and a loose page of the **Pale Journals** in Ardavan's hand, folded inside The Proving.
 
 **The Reveal.** The woman on the mound is Edie Lamb, a dairymaid from Silverbrook. She is not Claudia. Edie knows Claudia: "Mrs. Bay. They kept us together in the cellar. They took her away in the carriage at dusk."
 
 ##### Skill Checks
 {{noIndent
-**Investigation DC 14.** The Proving was written by an educated hand, with a good pen, by someone used to giving orders. It is not the hand of anyone the players have met.
+**Investigation DC 14.** The Proving and the letter were written by an educated hand, with a good pen, by someone used to giving orders. Nothing in the hand says whether the writer is a man or a woman. It is not the hand of anyone the players have met.
 
 **History DC 15.** The Second Leaf is Old Anchesturian: "Door, open. Eye to eye, hand to hand. Child come out, guest come in. I am a house."
 }}
@@ -439,8 +441,8 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 **Threads and Dead Ends.**
 
-- **Claudia.** Gone to town tonight in the closed carriage.
-- **Mr. Connely.** The report was for him. Nothing says who he is.
+- **Claudia.** Sent back to the letter's writer at dusk, in the closed carriage.
+- **The letter.** "Our adversaries" are the players. Their work has forced the writer to hurry.
 - **The Proving.** "For ours" means another child. The players can guess whose. "Into me" means the writer wants this done to herself.
 - **Hester's villagers.** Dead or gone. Silverbrook will have questions in the morning.
 
@@ -593,7 +595,7 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
     --dropcap-bottom: -6px;
     --dropcap-padding: 0px;
   "
-  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/c4725bb7146d7f480973a3b3ccac55f37debd8d0/assets/abtl/abtl-e10-handout-01.png"
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/70c1e852179f476457ce2931c5056f8ca56197e1/assets/abtl/abtl-e10-handout-01.png"
 />
 
 \page
@@ -625,10 +627,10 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
     --dropcap-bottom: -6px;
     --dropcap-padding: 0px;
   "
-  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/c4725bb7146d7f480973a3b3ccac55f37debd8d0/assets/abtl/abtl-e10-handout-02.png"
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/70c1e852179f476457ce2931c5056f8ca56197e1/assets/abtl/abtl-e10-handout-02.png"
 />
 
-<img name="Report to Mr. Connely"
+<img name="Letter to Mrs. Crayle"
   artist="John W. Brown III"
   artist_url="https://startplaying.games/gm/faight-rpg"
   class="dropCapImage"
@@ -640,7 +642,7 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
     --dropcap-bottom: -6px;
     --dropcap-padding: 0px;
   "
-  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/c4725bb7146d7f480973a3b3ccac55f37debd8d0/assets/abtl/abtl-e10-handout-03.png"
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/70c1e852179f476457ce2931c5056f8ca56197e1/assets/abtl/abtl-e10-handout-03.png"
 />
 
 \page
@@ -672,5 +674,5 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
     --dropcap-bottom: -6px;
     --dropcap-padding: 0px;
   "
-  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/c4725bb7146d7f480973a3b3ccac55f37debd8d0/assets/abtl/abtl-e10-handout-04.png"
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/70c1e852179f476457ce2931c5056f8ca56197e1/assets/abtl/abtl-e10-handout-04.png"
 />
