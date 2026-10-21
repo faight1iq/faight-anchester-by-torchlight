@@ -53,6 +53,9 @@
       }
     ]
   },
+  "esmodules": [
+    "scripts/party-cards.js"
+  ],
   "packs": [
     {
       "label": "Faight - Anchester by Torchlight",
