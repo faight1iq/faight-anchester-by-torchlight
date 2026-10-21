@@ -291,7 +291,7 @@ The ritual's clock. It starts at 0, 1 or 2 (Scene 1). On initiative count 10 of 
     --dropcap-bottom: 0px;
     --dropcap-padding: 0px;
   "
-  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-e10-map-beastwood.png"
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/3c98d320a0d6cf18b86194200287b09855c8541f/assets/abtl/abtl-e10-map-beastwood-v2.png"
 />
 
 #### The Deer Park
