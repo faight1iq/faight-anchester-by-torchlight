@@ -23,13 +23,14 @@
   CLAUDE'S PROPOSALS ON TOP OF THAT: the one-round window to kill the fluke; Hester Ascended's stat block
     and abilities; the arms growing as the track rises; the fluke dying when Hester Ascended dies;
     the outcome ladder; the new handout wording.
-  - The wording of both handouts. The Proving says the rite is a test; it does not state the God King
+  - JOHN (2026-10-21): the Pale Journal page text is John's. The Second Leaf chant is Claude's, accepted.
+  - The wording of The Proving and the Report. The Proving says the rite is a test; it does not state the God King
     mechanism, name the Clairvoyant, or hint at who she is.
   - The report says Claudia went "up to town" this evening in the closed carriage (E09: one coach-house
     bay empty). It gives no address.
   - Mr. Connely appears only as the name on the report. Who he is stays open.
   - Escalating Doom marks; The Herd; all skill checks and DCs; the Outcome Ladder.
-  STILL OPEN: Reward; Insight Cue; opener photo.
+  STILL OPEN: Reward; Insight Cue.
  -->
 
 <!-- THIS IS THE TITLE OF THE EPISODE LEAVE IT HERE -->
@@ -38,7 +39,7 @@
   artist_url="https://startplaying.games/gm/faight-rpg"
   class="dropCapImage"
   style="
-    --dropcap-height: 148px;
+    --dropcap-height: 135px;
     --dropcap-left: -25px;
     --dropcap-right: 0px;
     --dropcap-top: -0px;
@@ -55,7 +56,30 @@
 
 {{spacer,--s:14px}}
 
-<!-- OPENER PHOTO TO COME: abtl-e10-p0-photo.png -->
+{{classified
+<img name="Moonchild"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 239px;
+    width: 236px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    --dropcap-left: -8px;
+    --dropcap-right: 0px;
+    --dropcap-top: -5px;
+    --dropcap-bottom: -6px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/5972474791ec2dd6bf63399edfa28422b0201903/assets/abtl/abtl-e10-p0-photo.png"
+/>
+}}
+
+{{artist
+
+  [The Lake at Claremonte](https://startplaying.games/gm/faight-rpg)
+}}
 
 \column
 
@@ -392,13 +416,15 @@ The lamps are out. The clearing is dark except for the moon, and Edie is crying 
 Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a bottle of brandy, and a bundle of folded papers.
 }}
 
-**What's Happening.** The papers are the two handouts: **The Proving**, in a hand that is not Hester's, and Hester's unfinished **Report to Mr. Connely**.
+**What's Happening.** The papers are four handouts: **The Proving** and its **Second Leaf**, in a hand that is not Hester's; Hester's unfinished **Report to Mr. Connely**; and a loose page of the **Pale Journals** in Ardavan's hand, folded inside The Proving.
 
 **The Reveal.** The woman on the mound is Edie Lamb, a dairymaid from Silverbrook. She is not Claudia. Edie knows Claudia: "Mrs. Bay. They kept us together in the cellar. They took her away in the carriage at dusk."
 
 ##### Skill Checks
 {{noIndent
 **Investigation DC 14.** The Proving was written by an educated hand, with a good pen, by someone used to giving orders. It is not the hand of anyone the players have met.
+
+**History DC 15.** The Second Leaf is Old Anchesturian: "Door, open. Eye to eye, hand to hand. Child come out, guest come in. I am a house."
 }}
 
 ### Resolution
@@ -547,56 +573,104 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 }}
 {{pageline
   {{pointed-left
-    Handouts
+    Episode Ten
   }}
+  **HANDOUTS**
   {{pointed-right
     Moonchild
   }}
 }}
 
+<img name="The Proving"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 970px;
+    --dropcap-left: 70px;
+    --dropcap-right: 0px;
+    --dropcap-top: -5px;
+    --dropcap-bottom: -6px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/c4725bb7146d7f480973a3b3ccac55f37debd8d0/assets/abtl/abtl-e10-handout-01.png"
+/>
 
-{{wide
-## Handouts
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Ten
+  }}
+  **HANDOUTS**
+  {{pointed-right
+    Moonchild
+  }}
 }}
 
-#### The Proving
-*Found in Hester Crayle's bag. Two sheets of good paper, folded in four, in a neat, sloping hand.*
+<img name="The Second Leaf"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 470px;
+    --dropcap-left: 30px;
+    --dropcap-right: 0px;
+    --dropcap-top: -5px;
+    --dropcap-bottom: -6px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/c4725bb7146d7f480973a3b3ccac55f37debd8d0/assets/abtl/abtl-e10-handout-02.png"
+/>
 
-{{atbl-flavor
-**The Proving.**
+<img name="Report to Mr. Connely"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 470px;
+    --dropcap-left: 30px;
+    --dropcap-right: 0px;
+    --dropcap-top: 10px;
+    --dropcap-bottom: -6px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/c4725bb7146d7f480973a3b3ccac55f37debd8d0/assets/abtl/abtl-e10-handout-03.png"
+/>
 
-Take the girl down to the deer park when she is near her time. Begin at ten, when the moon is over the trees.
+\page
+{{pageNumber,auto}}
+{{show-footer}}
 
-Five lamps on the five points, each kept by one of your own. Let none of them go out.
-
-Lay her on the old mound, inside the lamps, head to the north.
-
-When her pains come close together, speak the words on the second leaf, and do not stop.
-
-The birth opens the door. Be under it when it does. What comes through will come to you. Do not fight it.
-
-Write down everything: the hour, the moon, how long the door stays open, what comes, and what you feel as it takes you. If you cannot hold the pen, have one of yours write for you.
-
-If the door opens for this one, it will open for ours. If it will cross into you, it will cross into me.
-
-Send your account by the morning coach.
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Ten
+  }}
+  **HANDOUTS**
+  {{pointed-right
+    Moonchild
+  }}
 }}
 
-\column
-
-#### Report to Mr. Connely
-*Found in Hester Crayle's bag. A single sheet in a cramped, careful hand, unfinished.*
-
-{{atbl-flavor
-Mr. Connely,
-
-As instructed. The Colonel's woman went up to town this evening in the closed carriage, with two of the house men. She was well.
-
-The Lamb girl's pains began at four. We go down to the park at nine. Lamps, linen and the cart are ready, and five of ours to keep the lamps.
-
-The Colonel did not come back from town. The household is uneasy. I have told them it makes no difference.
-
-I am honoured to be the one. If I cannot write afterward, Amos will.
-
-The door
-}}
+<img name="A Page of the Pale Journals"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 970px;
+    --dropcap-left: 20px;
+    --dropcap-right: 0px;
+    --dropcap-top: -5px;
+    --dropcap-bottom: -6px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/c4725bb7146d7f480973a3b3ccac55f37debd8d0/assets/abtl/abtl-e10-handout-04.png"
+/>
