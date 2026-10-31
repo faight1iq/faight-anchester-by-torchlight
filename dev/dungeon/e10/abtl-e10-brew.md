@@ -464,7 +464,9 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
   }}
 }}
 
+{{wide
 ## Cast
+}}
 
 {{castMember
 ##### Hester Crayle
