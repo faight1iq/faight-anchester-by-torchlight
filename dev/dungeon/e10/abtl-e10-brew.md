@@ -464,9 +464,7 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
   }}
 }}
 
-{{wide
-## Cast
-}}
+### Cast
 
 {{castMember
 ##### Hester Crayle
@@ -512,9 +510,7 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 *Intent*: Ring the bell if anyone comes up from the lake.
 }}
 
-{{wide
-## Horrors
-}}
+### Horrors
 
 {{castMember
 ##### Hester Crayle, Epic Boss
