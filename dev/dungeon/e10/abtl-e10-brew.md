@@ -471,11 +471,11 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 ##### Hester Crayle
 *Midwife of Silverbrook. Leader of the rite.*
 
-*Description*: Sixty, small and strong, sleeves rolled to the elbow, a midwife's bag at her knee.
+*Description*: Sixty, small and strong, a midwife's bag at her knee.
 
 *Mannerisms*: Low, steady, never hurried, as with every mother for forty years.
 
-*Intent*: Take what comes through the door into herself.
+*Intent*: Take what comes through the door.
 }}
 
 {{castMember
@@ -493,7 +493,7 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 ##### The Lamp Keepers
 *Five villagers of Silverbrook, sworn to the cult.*
 
-*Description*: Amos Wick, the chandler; Nan Tallow, his sister; Gideon Hookes, the reeve; Prue Mutter, the sexton's wife; Will Shank, the carter's boy. Each holds a lamp on a pole.
+*Description*: Amos Wick, the chandler; Nan Tallow, his sister; Gideon Hookes, the reeve; Prue Mutter, the sexton's wife; Will Shank, the carter's boy. 
 
 *Mannerisms*: Chant with Hester, eyes on the mound.
 
@@ -504,11 +504,11 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 ##### The Pike Brothers
 *Awakened Cultists. The South Hollow (W3).*
 
-*Description*: Two farmhands in dark smocks, one with a brass handbell.
+*Description*: Farmhands in dark smocks; one has a brass handbell.
 
 *Mannerisms*: Argue in whispers about their pay.
 
-*Intent*: Ring the bell if anyone comes up from the lake.
+*Intent*: Ring the bell if anyone comes from the lake.
 }}
 
 {{wide
@@ -521,18 +521,18 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 **AC** 22; **HP** 420; **Speed** 30 ft. Acts on Init 10. **Many Hands** +16, reach 15 ft. (30 ft. from 4 on the Crossing Track), 39 (6d10 + 6) necrotic, Grappled and pulled 10 ft. **Lullaby** (recharge 5-6) 60 ft., DC 19 Cha, 78 (12d12) psychic, Incapacitated and a Tormenting Nox. **The Moon's Door** (recharge 6) DC 19 Con, 60-ft. radius, 39 necrotic, pushed 15 ft., Crossing Track +1. Resists all damage while two lamps burn.
 
-*Description*: Her arms have split into many pale, reaching hands.
+*Description*: Many pale, reaching hands.
 
-*Intent*: Keep the players off the mound until the child comes.
+*Intent*: Hold the mound until the child comes.
 }}
 
 {{castMember
 ##### Greater Eye Fluke
 *Tiny aberration (Outsider), CR 14.*
 
-**AC** 16; **HP** 98; **Speed** 10 ft., climb 10 ft. Does not roll initiative. **Crossing.** On the initiative count 10 after it lands, it moves up to 10 ft. to Hester and merges with her. It takes no other action.
+**AC** 16; **HP** 98; **Speed** 10 ft., climb 10 ft. **Crossing.** No initiative. On count 10 after it lands, it moves up to 10 ft. to Hester and merges with her.
 
-*Description*: An eye as large as a man's fist, trailing pale tendrils.
+*Description*: A fist-sized eye trailing pale tendrils.
 
 *Intent*: Reach Hester.
 }}
@@ -545,14 +545,14 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 *Description*: An empty socket full of tendrils.
 
-*Intent*: Take Edie and the child as hosts, then anyone else.
+*Intent*: Take Edie and the child as hosts.
 }}
 
 {{castMember
 ##### Lamp Keeper
 *Medium humanoid (cultist), CR 9.*
 
-**AC** 15; **HP** 60; **Speed** 30 ft. **Lamp Pole** +11, reach 10 ft., 17 (3d8 + 4) bludgeoning, pushed 10 ft. **Moonlamp Flare** (recharge 5-6) 45-ft. cone, DC 16 Cha, 34 (6d8 + 7) psychic and Blinded. **Spiteful Curse** (reaction) DC 16 Con or a Rotting Pox. **Death:** its lamp goes out; its killer saves DC 16 Cha or gains a Tormenting Nox.
+**AC** 15; **HP** 60; **Speed** 30 ft. **Lamp Pole** +11, reach 10 ft., 17 (3d8 + 4) bludgeoning, pushed 10 ft. **Moonlamp Flare** (recharge 5-6) 45-ft. cone, DC 16 Cha, 34 (6d8 + 7) psychic and Blinded. **Spiteful Curse** (reaction) DC 16 Con or a Rotting Pox. **Death:** its lamp goes out; killer DC 16 Cha or a Tormenting Nox.
 
 *Intent*: Hold the ring.
 }}
