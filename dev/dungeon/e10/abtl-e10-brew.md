@@ -446,6 +446,22 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 - **The Proving.** "For ours" means another child. The players can guess whose. "Into me" means the writer wants this done to herself.
 - **Hester's villagers.** Dead or gone. Silverbrook will have questions in the morning.
 
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Ten
+  }}
+  {{pointed-right
+    Moonchild
+  }}
+}}
+
 ## Cast
 
 {{castMember
@@ -469,23 +485,6 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 *Intent*: Live, and keep her child. Trusted Hester until tonight.
 }}
-
-\page
-{{pageNumber,auto}}
-{{show-footer}}
-
-{{pageheader
-  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
-}}
-{{pageline
-  {{pointed-left
-    Episode Ten
-  }}
-  {{pointed-right
-    Moonchild
-  }}
-}}
-
 
 {{castMember
 ##### The Lamp Keepers
@@ -565,6 +564,37 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 **Hunting Horror.** Huge, CR 17, AC 19, HP 312. Comes only through Ether Summons.
 }}
+
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Ten
+  }}
+  {{pointed-right
+    Moonchild
+  }}
+}}
+
+<img name="Hester Ascended"
+  artist="John W. Brown III"
+  artist_url="https://startplaying.games/gm/faight-rpg"
+  class="dropCapImage"
+  style="
+    --dropcap-height: 970px;
+    --dropcap-left: 70px;
+    --dropcap-right: 0px;
+    --dropcap-top: -5px;
+    --dropcap-bottom: -6px;
+    --dropcap-padding: 0px;
+  "
+  src="https://raw.githubusercontent.com/faight1iq/homebrewery-assets/b04d450f6e8f31b4ba4ff82af8092760140f46ad/assets/abtl/abtl-e10-hester-ascended.png"
+/>
 
 \page
 {{pageNumber,auto}}
