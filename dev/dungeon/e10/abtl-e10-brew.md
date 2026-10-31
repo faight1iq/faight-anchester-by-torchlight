@@ -422,6 +422,8 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 **The Reveal.** The woman on the mound is Edie Lamb, a dairymaid from Silverbrook. She is not Claudia. Edie knows Claudia: "Mrs. Bay. They kept us together in the cellar. They took her away in the carriage at dusk."
 
+\column
+
 ##### Skill Checks
 {{noIndent
 **Investigation DC 14.** The Proving and the letter were written by an educated hand, with a good pen, by someone used to giving orders. Nothing in the hand says whether the writer is a man or a woman. It is not the hand of anyone the players have met.
