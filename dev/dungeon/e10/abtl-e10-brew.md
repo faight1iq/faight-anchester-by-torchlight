@@ -472,20 +472,20 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 *Description*: Sixty, small and strong, sleeves rolled to the elbow, a midwife's bag at her knee.
 
-*Mannerisms*: Talks to Edie as she has talked to every mother for forty years: low, steady, never hurried.
+*Mannerisms*: Low, steady, never hurried, as with every mother for forty years.
 
-*Intent*: Be under the door when the child comes, and take what comes through into herself.
+*Intent*: Take what comes through the door into herself.
 }}
 
 {{castMember
 ##### Edie Lamb
 *Dairymaid of Hollow Farm, Silverbrook. Nineteen.*
 
-*Description*: Dark hair stuck to her face, a borrowed nightgown, a wedding ring on a string round her neck.
+*Description*: Borrowed nightgown, a wedding ring on a string round her neck.
 
-*Mannerisms*: Grips the nearest hand and will not let go. Asks for her husband, Tom, a gunner on the harbour batteries.
+*Mannerisms*: Grips the nearest hand. Asks for Tom, her husband, a harbour gunner.
 
-*Intent*: Live, and keep her child. Trusted Hester until tonight.
+*Intent*: Live, and keep her child.
 }}
 
 {{castMember
@@ -494,9 +494,9 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 *Description*: Amos Wick, the chandler; Nan Tallow, his sister; Gideon Hookes, the reeve; Prue Mutter, the sexton's wife; Will Shank, the carter's boy. Each holds a lamp on a pole.
 
-*Mannerisms*: Chant with Hester and keep their eyes on the mound.
+*Mannerisms*: Chant with Hester, eyes on the mound.
 
-*Intent*: Keep the lamps burning. None of them leaves the ring.
+*Intent*: Keep the lamps burning.
 }}
 
 {{castMember
@@ -505,7 +505,7 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 *Description*: Two farmhands in dark smocks, one with a brass handbell.
 
-*Mannerisms*: Argue in whispers about whether the big house will pay them.
+*Mannerisms*: Argue in whispers about their pay.
 
 *Intent*: Ring the bell if anyone comes up from the lake.
 }}
@@ -520,7 +520,7 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 **AC** 22; **HP** 420; **Speed** 30 ft. Acts on Init 10. **Many Hands** +16, reach 15 ft. (30 ft. from 4 on the Crossing Track), 39 (6d10 + 6) necrotic, Grappled and pulled 10 ft. **Lullaby** (recharge 5-6) 60 ft., DC 19 Cha, 78 (12d12) psychic, Incapacitated and a Tormenting Nox. **The Moon's Door** (recharge 6) DC 19 Con, 60-ft. radius, 39 necrotic, pushed 15 ft., Crossing Track +1. Resists all damage while two lamps burn.
 
-*Description*: Her arms have split into many long, pale hands, all reaching.
+*Description*: Her arms have split into many pale, reaching hands.
 
 *Intent*: Keep the players off the mound until the child comes.
 }}
@@ -540,9 +540,9 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 ##### Hester Ascended, Epic Boss
 *Large aberration (Outsider), CR 16.*
 
-**AC** 22; **HP** 446 (keeps the damage Hester has taken); **Speed** 30 ft. Acts on Init 10. Resists all damage. **Many Hands** +18, reach 30 ft., 49 (7d10 + 11) necrotic, Grappled (escape DC 21) and pulled 10 ft. Edie and the child take no damage from it. **Seed** (recharge 4-6) one creature she has Grappled, DC 21 Con (Edie and the child fail), Blinded, then Possessed (as by the Eye Fluke, Episode Two) at the start of her next count 10. **The Eye Opens** (recharge 5-6) 60 ft., DC 21 Wis, 98 (14d12 + 7) psychic, Blinded and a Tormenting Nox. **Death:** the fluke dies with her, and every creature it Possessed is freed.
+**AC** 22; **HP** 446 (less Hester's damage); **Speed** 30 ft. Acts on Init 10. Resists all damage. **Many Hands** +18, reach 30 ft., 49 (7d10 + 11) necrotic, Grappled (escape DC 21) and pulled 10 ft. Edie and the child take no damage from it. **Seed** (recharge 4-6) one creature she has Grappled, DC 21 Con (Edie and the child fail), Blinded, then Possessed (Eye Fluke, Episode Two) on her next count 10. **The Eye Opens** (recharge 5-6) 60 ft., DC 21 Wis, 98 (14d12 + 7) psychic, Blinded and a Tormenting Nox. **Death:** the fluke dies with her, and every creature it Possessed is freed.
 
-*Description*: An empty socket full of tendrils. Her hands reach farther than they did.
+*Description*: An empty socket full of tendrils.
 
 *Intent*: Take Edie and the child as hosts, then anyone else.
 }}
@@ -553,7 +553,7 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 **AC** 15; **HP** 60; **Speed** 30 ft. **Lamp Pole** +11, reach 10 ft., 17 (3d8 + 4) bludgeoning, pushed 10 ft. **Moonlamp Flare** (recharge 5-6) 45-ft. cone, DC 16 Cha, 34 (6d8 + 7) psychic and Blinded. **Spiteful Curse** (reaction) DC 16 Con or a Rotting Pox. **Death:** its lamp goes out; its killer saves DC 16 Cha or gains a Tormenting Nox.
 
-*Intent*: Hold its place in the ring.
+*Intent*: Hold the ring.
 }}
 
 {{castMember
