@@ -489,6 +489,8 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 *Intent*: Live, and keep her child.
 }}
 
+\column
+
 {{castMember
 ##### The Lamp Keepers
 *Five villagers of Silverbrook, sworn to the cult.*
@@ -499,6 +501,8 @@ Hester's midwife's bag lies open by the pallet: scissors, twine, clean cloths, a
 
 *Intent*: Keep the lamps burning.
 }}
+
+\column
 
 {{castMember
 ##### The Pike Brothers
