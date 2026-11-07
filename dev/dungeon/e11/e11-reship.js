@@ -17,10 +17,14 @@ for (const a of e11) for (const it of a.items) {
   if (!Object.keys(upd).length) continue;
   const nb = Object.values(upd)[0];
   let d = it.system.description.value;
-  d = d.replace(/\+(16|20)(?=, reach|, range| to hit)/g, "+" + nb);
+  d = d.replace(/\+(16|20)(?=, reach|, range| to hit| \(\+1)/g, "+" + nb);
   upd["system.description.value"] = d;
   await it.update(upd); R.push(`${a.name}/${it.name} -> +${nb}`);
 }
+
+// Eye Swarm Stare text reads "+16 (+1 per Grows)"; fix it even when the bonus was already lowered.
+for (const a of e11.filter(a => a.name === "Eye Swarm")) for (const it of a.items.filter(i => i.name === "Stare")) {
+  const d = it.system.description.value; if (d.includes("+16 (+1")) { await it.update({ "system.description.value": d.replace("+16 (+1", "+12 (+1") }); R.push("Eye Swarm/Stare text -> +12"); } }
 
 // 2. Vision reactions. key: [Vision name, Response text]
 const T = (n) => `<em>Trigger:</em> An attack roll hits the ${n}. <em>Response:</em> `;
