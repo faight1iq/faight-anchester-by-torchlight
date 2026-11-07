@@ -76,7 +76,7 @@ const cast = `<h2>Cast and Horrors</h2>
 <h3>Pair Room Horrors</h3>
 <p>${A("The Caller")} and ${A("Wall-Born")} (M1); ${A("The Choir")}, ${A("Choir Shard")} and ${A("Anchor Stone")} (M2); ${A("Hollow Brute")} (M3).</p>
 <h3>The Visions</h3>
-<p>Eighteen Visions in room C: AC 16, HP 35, Touch +14 for 13 psychic, one ability each from its picture. Saves DC 19, raised for Sister Curie's aura. See ${P("C. The Waking Room")}.</p>`;
+<p>Eighteen Visions in room C: AC 16, HP 35, Touch +14 for 13 psychic, and one reaction each from its picture, used when an attack roll hits it. Saves DC 19, raised for Sister Curie's aura. See ${P("C. The Waking Room")}.</p>`;
 
 const names = ["Overview", "The Dream Maze (map)", "Scene 5: Waking and Resolution", "Cast and Horrors"];
 const old = j.pages.filter(p => names.includes(p.name)).map(p => p.id);
