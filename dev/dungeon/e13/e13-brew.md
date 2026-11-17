@@ -362,6 +362,8 @@ A brass machine the size of a cottage, its great clock face swinging a silent pe
 **The Sleepers.** The seven patients "removed below" (Episode Twelve). They wake when the machine stops.
 
 
+\column
+
 #### The Machine (Doom)
 Spend on Orme's Init 10 turn, once a round.
 
@@ -373,6 +375,8 @@ Spend on Orme's Init 10 turn, once a round.
 | 2 | **A Sleeper's Nightmare.** A Vision (Episode Eleven) steps out beside a bed. |
 | 3 | **The Clock Strikes.** Show Me Your Fear recharges; Orme regains 52 HP. |
 
+
+\column
 
 ### Resolution
 **Outcome.** The dream spell ends and the Damnation lifts. The players carry the Clairvoyant's name out of the basement.
