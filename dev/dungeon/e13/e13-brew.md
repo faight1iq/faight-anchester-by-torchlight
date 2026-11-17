@@ -146,7 +146,7 @@ Each room has a map note in Foundry that opens its page in the journal "E13 Fear
   artist_url="https://startplaying.games/gm/faight-rpg"
   class="dropCapImage"
   style="
-    --dropcap-height: 470px;
+    --dropcap-height: 495px;
     width: 740px;
     object-fit: contain;
     --dropcap-left: 0px;
@@ -231,7 +231,6 @@ A service tunnel runs east, longer than the house above it. Pipes sweat along th
 **Thieves' Tools DC 18** disarms the wire; **Athletics DC 16** closes the valve by hand.
 }}
 
-\column
 
 ### Scene 3: The Injection Ward
 ***13.03. Night. ~40 min***
@@ -251,7 +250,6 @@ Six **Fluke-Ridden Orderlies**. Orme injected fluke larvae into his own staff; t
 **Medicine DC 17.** The fallen orderly is still breathing.
 }}
 
-\column
 
 ### Scene 4: The Crooked Knot
 ***13.04. Night. ~45 min***
@@ -269,22 +267,6 @@ Five **Angle Hounds** and the **Elder Angle Hound** come through the corners whe
 ##### Skill Checks
 {{noIndent
 **Arcana DC 17.** The hounds can't use a corner that is filled or dark.
-}}
-
-\page
-{{pageNumber,auto}}
-{{show-footer}}
-
-{{pageheader
-  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
-}}
-{{pageline
-  {{pointed-left
-    Episode Thirteen
-  }}
-  {{pointed-right
-    Fear is the Key
-  }}
 }}
 
 
@@ -308,7 +290,6 @@ A small study: a worn rug, a mahogany desk under a green lamp, a cot made up wit
 **Insight DC 15.** Laid beside the Episode Ten letter: the same writer, without doubt.
 }}
 
-\column
 
 ### Scene 6: The Gas Works
 ***13.06. Night. ~20 min***
@@ -330,7 +311,23 @@ This plant makes Orme's gas and feeds it through ducts into the Machine Ward. Th
 **Investigation DC 18 or Tinker's Tools.** Tank three is over pressure; vent it before starting the fan.
 }}
 
-\column
+
+\page
+{{pageNumber,auto}}
+{{show-footer}}
+
+{{pageheader
+  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
+}}
+{{pageline
+  {{pointed-left
+    Episode Thirteen
+  }}
+  {{pointed-right
+    Fear is the Key
+  }}
+}}
+
 
 ### Scene 7: The Specimen Vault
 ***13.07. Night. ~50 min***
@@ -350,22 +347,6 @@ Shelves of great glass jars hold pale brains in green fluid. A glass tank the si
 **Arcana DC 18.** It is eating the jars to heal. Break them.
 }}
 
-\page
-{{pageNumber,auto}}
-{{show-footer}}
-
-{{pageheader
-  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
-}}
-{{pageline
-  {{pointed-left
-    Episode Thirteen
-  }}
-  {{pointed-right
-    Fear is the Key
-  }}
-}}
-
 
 ### Scene 8: The Machine Ward
 ***13.08. Night. ~70 min***
@@ -380,7 +361,6 @@ A brass machine the size of a cottage, its great clock face swinging a silent pe
 
 **The Sleepers.** The seven patients "removed below" (Episode Twelve). They wake when the machine stops.
 
-\column
 
 #### The Machine (Doom)
 Spend on Orme's Init 10 turn, once a round.
@@ -393,7 +373,6 @@ Spend on Orme's Init 10 turn, once a round.
 | 2 | **A Sleeper's Nightmare.** A Vision (Episode Eleven) steps out beside a bed. |
 | 3 | **The Clock Strikes.** Show Me Your Fear recharges; Orme regains 52 HP. |
 
-\column
 
 ### Resolution
 **Outcome.** The dream spell ends and the Damnation lifts. The players carry the Clairvoyant's name out of the basement.
@@ -449,7 +428,6 @@ Spend on Orme's Init 10 turn, once a round.
 **AC** 18; **HP** 118; **Speed** 40 ft. Blindsight 30 ft. **Pack Hunter** (Advantage with another hound adjacent). **Corner Walker** corner to corner within 60 ft. for 10 ft. of movement; sealed corners can't be used. **Bite** +17, 30 (5d8 + 8) piercing. **Out of the Corner** (recharge 5-6) Corner Walker, 20 ft., bite for 60 (11d10) piercing and DC 19 Wis or Frightened. **Back Into the Angle** (bonus) Invisible in a corner until it attacks.
 }}
 
-\column
 
 {{castMember
 ##### Elder Angle Hound
@@ -469,25 +447,6 @@ Spend on Orme's Init 10 turn, once a round.
 *Intent*: Feed on whoever casts spells.
 }}
 
-\page
-{{pageNumber,auto}}
-{{show-footer}}
-
-{{pageheader
-  ![header](https://raw.githubusercontent.com/faight1iq/homebrewery-assets/main/assets/abtl/abtl-newsprint-double-line-top.png)
-}}
-{{pageline
-  {{pointed-left
-    Episode Thirteen
-  }}
-  {{pointed-right
-    Fear is the Key
-  }}
-}}
-
-{{wide
-## Cast and Horrors, continued
-}}
 
 {{castMember
 ##### Dr. Valentin Orme
@@ -509,7 +468,6 @@ Spend on Orme's Init 10 turn, once a round.
 *Intent*: Stitch the frightened and the sleeping.
 }}
 
-\column
 
 {{castMember
 ##### The Seven Sleepers
