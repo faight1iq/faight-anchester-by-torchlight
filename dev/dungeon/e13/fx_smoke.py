@@ -95,12 +95,11 @@ def build(name, seed, colours, n_per_loop=160, life=6.5, drift=(0.0, -18.0), spr
     print(out, os.path.getsize(out))
 
 
-PURPLE, GREEN = (150, 85, 195), (105, 195, 120)
-GREY, ASH, PALE = (170, 168, 172), (140, 138, 144), (200, 198, 205)
+PURPLE, VIOLET, GREEN, PALEG = (150, 80, 200), (110, 55, 170), (100, 200, 115), (150, 210, 140)
 if __name__ == "__main__":
     import sys
     which = sys.argv[1:] or ["p", "g", "m"]
-    # mostly grey smoke; one strand in five carries the colour accent
-    if "p" in which: build("p", 21, [GREY, ASH, PURPLE, PALE, GREY])
-    if "g" in which: build("g", 22, [GREY, PALE, GREEN, ASH, GREY])
-    if "m" in which: build("m", 23, [GREY, PURPLE, ASH, GREEN, PALE])
+    # the smoke itself is purple and green (John, 2026-11-17); the lights stay neutral
+    if "p" in which: build("p", 21, [PURPLE, VIOLET, GREEN, PURPLE, VIOLET])
+    if "g" in which: build("g", 22, [GREEN, PALEG, PURPLE, GREEN, PALEG])
+    if "m" in which: build("m", 23, [PURPLE, GREEN, VIOLET, PALEG, PURPLE])
