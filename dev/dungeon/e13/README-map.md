@@ -19,6 +19,8 @@ The Foundry walls are unchanged and sit on the floor outline (`e13-dungeon.walls
     python3 fx_eyes.py      # fx/abtl-e13-fx-eye-{a,b,c}.webm: eyes that open, look, blink and close (11/14/17 s loops)
 - Copied to `assets/scenes/abtl-e13-fx/`. In scene 13.01: 18 eye tiles (4.5 x 2.8 ft)
   against the hall, Knot and vault walls (`fx/eyes.json`), all flagged `role: fx`, locked, looping, muted.
-- Lights: Injection Ward lamps flicker (flame), Knot corners purple swirling fog, vault spill ghost-green, machine slow pulse,
-  plus six faint purple/green fog lights in the halls (flagged `role: fx`).
+    python3 fx_smoke.py     # fx/abtl-e13-fx-smoke-{p,g,m}.webm: grey smoke tendrils from cracks, one strand in five purple or green
+- 10 smoke tiles (12 x 12 ft) at cracks, the gutter, the drain, the Knot, the vault tank and under the machine (`fx/smoke.json`).
+- Lights: Injection Ward lamps flicker (flame), Knot corners cold grey swirling fog, vault spill dim ghost-green, machine slow
+  pulse. Purple and green are accents only (John, 2026-11-17).
 - The purple-green miasma overlay (`fx_miasma.py`) was tried and removed: it did not fit the look.
