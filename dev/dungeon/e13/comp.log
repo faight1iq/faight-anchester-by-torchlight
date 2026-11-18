@@ -1,0 +1,14 @@
+r01: fit identity 0.93 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 0 lane-px-left 0 cover 0.11
+h02a: fit identity 0.88 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 0 lane-px-left 0 cover 0.22
+h02b: fit identity 0.85 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 0 lane-px-left 0 cover 0.20
+r03: fit identity 0.55 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 0 lane-px-left 0 cover 0.26
+r04: fit walls-aff 0.84 [1.000 -0.000 0.5 / 0.000 0.999 0.4] shrink 1.0 lane-kills 3 lane-px-left 0 cover 0.07
+c2a: fit identity 0.91 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 0 lane-px-left 0 cover 0.04
+c2b: fit identity 0.92 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 0 lane-px-left 0 cover 0.04
+c3: fit identity 0.85 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 4 lane-px-left 0 cover 0.09
+c4: fit identity 0.88 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 0 lane-px-left 0 cover 0.07
+c5: fit identity 0.85 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 0 lane-px-left 0 cover 0.09
+r05: fit identity 0.74 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 0 lane-px-left 23441 cover 0.58
+r06: fit identity 0.61 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 0 lane-px-left 0 cover 0.35
+r07: fit identity 0.66 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 4 lane-px-left 0 cover 0.34
+r08: fit identity 0.49 [1.000 0.000 0.0 / 0.000 1.000 0.0] shrink 1.0 lane-kills 0 lane-px-left 51 cover 0.32
