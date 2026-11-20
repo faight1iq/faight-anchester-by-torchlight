@@ -62,6 +62,7 @@
   },
   "esmodules": [
     "scripts/party-cards.js",
+    "scripts/weapon-range-ring.js",
     "scripts/weapon-range-ring.js"
   ],
   "packs": [
